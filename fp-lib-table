@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name undiscipline)(type KiCad)(uri ${KIPRJMOD}/undiscipline.pretty)(options "")(descr ""))
+)
