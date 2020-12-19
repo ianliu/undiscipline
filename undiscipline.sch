@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 1
+Sheet 1 2
 Title ""
 Date ""
 Rev ""
@@ -2492,7 +2492,6 @@ Wire Wire Line
 	5500 850  5500 1450
 Connection ~ 5500 1450
 NoConn ~ 2400 1600
-NoConn ~ 2400 4200
 NoConn ~ 2400 4300
 NoConn ~ 2400 4400
 Text Notes 1100 5400 0    118  ~ 24
@@ -2540,4 +2539,12 @@ F 3 "" H 6700 6050 50  0001 C CNN
 	1    6700 6050
 	0    1    1    0   
 $EndComp
+$Sheet
+S 8850 4700 1550 650 
+U 5FDEEC30
+F0 "leds" 50
+F1 "leds.sch" 50
+$EndSheet
+Text GLabel 2400 4200 2    50   Input ~ 0
+LED
 $EndSCHEMATC
