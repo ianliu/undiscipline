@@ -1380,6 +1380,6 @@ $EndComp
 Wire Wire Line
 	750  5200 1150 5200
 Connection ~ 1150 5200
-Text GLabel 3850 1150 2    50   Input ~ 0
+Text HLabel 3850 1150 2    50   Input ~ 0
 LED
 $EndSCHEMATC

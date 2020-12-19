@@ -2540,11 +2540,14 @@ F 3 "" H 6700 6050 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Sheet
-S 8850 4700 1550 650 
+S 8350 4750 550  650 
 U 5FDEEC30
 F0 "leds" 50
 F1 "leds.sch" 50
+F2 "LED" I R 8900 4900 50 
 $EndSheet
 Text GLabel 2400 4200 2    50   Input ~ 0
+LED
+Text GLabel 8900 4900 2    50   Input ~ 0
 LED
 $EndSCHEMATC
