@@ -984,23 +984,23 @@ $EndComp
 $Comp
 L Switch:SW_Push SW53
 U 1 1 5FD84B0E
-P 3800 3250
-F 0 "SW53" H 3800 3535 50  0000 C CNN
-F 1 "SW_Push" H 3800 3444 50  0000 C CNN
-F 2 "undiscipline:CherryMX_Kailh_Socket" H 3800 3450 50  0001 C CNN
-F 3 "~" H 3800 3450 50  0001 C CNN
-	1    3800 3250
+P 3300 3250
+F 0 "SW53" H 3300 3535 50  0000 C CNN
+F 1 "SW_Push" H 3300 3444 50  0000 C CNN
+F 2 "undiscipline:CherryMX_Kailh_Socket" H 3300 3450 50  0001 C CNN
+F 3 "~" H 3300 3450 50  0001 C CNN
+	1    3300 3250
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D D53
 U 1 1 5FD84B14
-P 3600 3400
-F 0 "D53" V 3646 3320 50  0000 R CNN
-F 1 "D" V 3555 3320 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3600 3400 50  0001 C CNN
-F 3 "~" H 3600 3400 50  0001 C CNN
-	1    3600 3400
+P 3100 3400
+F 0 "D53" V 3146 3320 50  0000 R CNN
+F 1 "D" V 3055 3320 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3100 3400 50  0001 C CNN
+F 3 "~" H 3100 3400 50  0001 C CNN
+	1    3100 3400
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1560,12 +1560,7 @@ Wire Wire Line
 Connection ~ 8600 2950
 Wire Wire Line
 	10100 3550 9600 3550
-Connection ~ 3600 3550
-Wire Wire Line
-	3600 3550 3100 3550
 Connection ~ 4100 3550
-Wire Wire Line
-	4100 3550 3600 3550
 Connection ~ 4600 3550
 Wire Wire Line
 	4600 3550 4100 3550
@@ -1715,11 +1710,6 @@ Wire Wire Line
 Connection ~ 3500 2050
 Wire Wire Line
 	3500 2050 3500 2650
-Wire Wire Line
-	4000 2650 4000 3250
-Connection ~ 4000 3250
-Wire Wire Line
-	4000 3250 4000 3850
 Text GLabel 3500 850  1    50   Input ~ 0
 col0
 Text GLabel 4000 850  1    50   Input ~ 0
@@ -1906,7 +1896,7 @@ U 1 1 6006CC51
 P 850 1300
 F 0 "Y1" V 804 1388 50  0000 L CNN
 F 1 "16MHz" V 895 1388 50  0000 L CNN
-F 2 "Crystal:Crystal_HC18-U_Vertical" H 850 1300 50  0001 C CNN
+F 2 "Crystal:Crystal_HC49-4H_Vertical" H 850 1300 50  0001 C CNN
 F 3 "~" H 850 1300 50  0001 C CNN
 	1    850  1300
 	0    1    1    0   
@@ -2340,7 +2330,7 @@ Wire Wire Line
 Connection ~ 5000 3250
 Connection ~ 7000 3250
 Wire Wire Line
-	3500 3850 3500 2650
+	3500 3850 3500 3250
 Connection ~ 3500 2650
 Wire Wire Line
 	10100 4150 10600 4150
@@ -2508,35 +2498,35 @@ U 1 1 5FDA22A3
 P 6500 5850
 F 0 "J1" H 6608 6131 50  0000 C CNN
 F 1 "Conn_01x04_Male" H 6608 6040 50  0000 C CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical" H 6500 5850 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 6500 5850 50  0001 C CNN
 F 3 "~" H 6500 5850 50  0001 C CNN
 	1    6500 5850
 	1    0    0    -1  
 $EndComp
-Text GLabel 6700 5750 2    50   Input ~ 0
+Text GLabel 6700 6050 2    50   Input ~ 0
 SDA
-Text GLabel 6700 5850 2    50   Input ~ 0
+Text GLabel 6700 5950 2    50   Input ~ 0
 SCL
 $Comp
 L power:GND #PWR08
 U 1 1 5FDA403D
-P 6700 5950
-F 0 "#PWR08" H 6700 5700 50  0001 C CNN
-F 1 "GND" V 6705 5822 50  0000 R CNN
-F 2 "" H 6700 5950 50  0001 C CNN
-F 3 "" H 6700 5950 50  0001 C CNN
-	1    6700 5950
+P 6700 5750
+F 0 "#PWR08" H 6700 5500 50  0001 C CNN
+F 1 "GND" V 6705 5622 50  0000 R CNN
+F 2 "" H 6700 5750 50  0001 C CNN
+F 3 "" H 6700 5750 50  0001 C CNN
+	1    6700 5750
 	0    -1   -1   0   
 $EndComp
 $Comp
 L power:+5V #PWR010
 U 1 1 5FDA4D08
-P 6700 6050
-F 0 "#PWR010" H 6700 5900 50  0001 C CNN
-F 1 "+5V" V 6715 6178 50  0000 L CNN
-F 2 "" H 6700 6050 50  0001 C CNN
-F 3 "" H 6700 6050 50  0001 C CNN
-	1    6700 6050
+P 6700 5850
+F 0 "#PWR010" H 6700 5700 50  0001 C CNN
+F 1 "+5V" V 6715 5978 50  0000 L CNN
+F 2 "" H 6700 5850 50  0001 C CNN
+F 3 "" H 6700 5850 50  0001 C CNN
+	1    6700 5850
 	0    1    1    0   
 $EndComp
 $Sheet
@@ -2550,4 +2540,14 @@ Text GLabel 2400 4200 2    50   Input ~ 0
 LED
 Text GLabel 8900 4900 2    50   Input ~ 0
 LED
+Connection ~ 3500 3250
+Wire Wire Line
+	3500 3250 3500 2650
+Wire Wire Line
+	3100 3550 4100 3550
+Wire Wire Line
+	4000 2650 4000 3850
+Wire Wire Line
+	8500 3250 8500 3850
+Connection ~ 8500 3250
 $EndSCHEMATC
