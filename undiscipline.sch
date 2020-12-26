@@ -2498,7 +2498,7 @@ U 1 1 5FDA22A3
 P 6500 5850
 F 0 "J1" H 6608 6131 50  0000 C CNN
 F 1 "Conn_01x04_Male" H 6608 6040 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 6500 5850 50  0001 C CNN
+F 2 "undiscipline:OLED128x64" H 6500 5850 50  0001 C CNN
 F 3 "~" H 6500 5850 50  0001 C CNN
 	1    6500 5850
 	1    0    0    -1  

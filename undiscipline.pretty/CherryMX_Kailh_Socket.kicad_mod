@@ -1,4 +1,4 @@
-(module CherryMX_Kailh_Socket (layer F.Cu) (tedit 5FDFB576)
+(module CherryMX_Kailh_Socket (layer F.Cu) (tedit 5FE2A0EA)
   (fp_text reference REF** (at 0 8.755) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -33,4 +33,9 @@
   (pad "" np_thru_hole circle (at 0 0) (size 4 4) (drill 4) (layers *.Cu *.Mask))
   (pad 2 smd rect (at 6.09 -5.08) (size 2.55 2.5) (layers B.Cu B.Adhes B.SilkS))
   (pad 1 smd rect (at -7.36 -2.54) (size 2.55 2.5) (layers B.Cu B.Adhes B.SilkS))
+  (model ${KIPRJMOD}/undiscipline.pretty/3dmodels/Kailh_Socket.step
+    (offset (xyz 4.85 6.75 -3.45))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
 )
