@@ -1843,40 +1843,40 @@ F 3 "" H 1900 700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Connection ~ 1900 700 
-Text GLabel 2400 1300 2    50   Input ~ 0
+Text GLabel 2400 1400 2    50   Input ~ 0
 row3
-Text GLabel 2400 1100 2    50   Input ~ 0
+Text GLabel 2400 1200 2    50   Input ~ 0
 row1
-Text GLabel 2400 1900 2    50   Input ~ 0
+Text GLabel 2400 3300 2    50   Input ~ 0
 col0
-Text GLabel 2400 2100 2    50   Input ~ 0
+Text GLabel 2400 3100 2    50   Input ~ 0
 col2
-Text GLabel 2400 2300 2    50   Input ~ 0
+Text GLabel 2400 1900 2    50   Input ~ 0
 col4
 NoConn ~ 2400 1700
-Text GLabel 2400 1400 2    50   Input ~ 0
+Text GLabel 2400 1500 2    50   Input ~ 0
 row4
-Text GLabel 2400 1200 2    50   Input ~ 0
+Text GLabel 2400 1300 2    50   Input ~ 0
 row2
-Text GLabel 2400 1000 2    50   Input ~ 0
+Text GLabel 2400 1100 2    50   Input ~ 0
 row0
-Text GLabel 2400 2000 2    50   Input ~ 0
-col1
-Text GLabel 2400 2200 2    50   Input ~ 0
-col3
-Text GLabel 2400 3500 2    50   Input ~ 0
-col13
-Text GLabel 2400 3400 2    50   Input ~ 0
-col12
-Text GLabel 2400 3300 2    50   Input ~ 0
-col11
 Text GLabel 2400 3200 2    50   Input ~ 0
-col10
-Text GLabel 2400 3100 2    50   Input ~ 0
-col9
+col1
 Text GLabel 2400 3000 2    50   Input ~ 0
-col8
+col3
+Text GLabel 2400 3800 2    50   Input ~ 0
+col13
+Text GLabel 2400 3700 2    50   Input ~ 0
+col12
 Text GLabel 2400 2600 2    50   Input ~ 0
+col11
+Text GLabel 2400 2500 2    50   Input ~ 0
+col10
+Text GLabel 2400 2400 2    50   Input ~ 0
+col9
+Text GLabel 2400 2300 2    50   Input ~ 0
+col8
+Text GLabel 2400 2200 2    50   Input ~ 0
 col7
 Text GLabel 2400 3900 2    50   Input ~ 0
 D+
@@ -1884,11 +1884,11 @@ Text GLabel 2400 4000 2    50   Input ~ 0
 D-
 Text GLabel 2400 4100 2    50   Input ~ 0
 boot
-Text GLabel 2400 2400 2    50   Input ~ 0
+Text GLabel 2400 2000 2    50   Input ~ 0
 col5
-Text GLabel 2400 2500 2    50   Input ~ 0
+Text GLabel 2400 2100 2    50   Input ~ 0
 col6
-Text GLabel 2400 3700 2    50   Input ~ 0
+Text GLabel 2400 4200 2    50   Input ~ 0
 col14
 $Comp
 L Device:Crystal_Small Y1
@@ -2335,13 +2335,13 @@ Connection ~ 3500 2650
 Wire Wire Line
 	10100 4150 10600 4150
 Connection ~ 10100 4150
-Text GLabel 2400 3800 2    50   Input ~ 0
+Text GLabel 2400 4300 2    50   Input ~ 0
 col15
 Text GLabel 2400 2800 2    50   Input ~ 0
 SCL
 Text GLabel 2400 2900 2    50   Input ~ 0
 SDA
-Text GLabel 2400 1500 2    50   Input ~ 0
+Text GLabel 2400 1600 2    50   Input ~ 0
 row5
 $Comp
 L Switch:SW_Push SW1
@@ -2481,9 +2481,6 @@ Connection ~ 5000 1450
 Wire Wire Line
 	5500 850  5500 1450
 Connection ~ 5500 1450
-NoConn ~ 2400 1600
-NoConn ~ 2400 4300
-NoConn ~ 2400 4400
 Text Notes 1100 5400 0    118  ~ 24
 Micro USB
 Text Notes 2900 5400 0    118  ~ 24
@@ -2503,10 +2500,6 @@ F 3 "~" H 6500 5850 50  0001 C CNN
 	1    6500 5850
 	1    0    0    -1  
 $EndComp
-Text GLabel 6700 6050 2    50   Input ~ 0
-SDA
-Text GLabel 6700 5950 2    50   Input ~ 0
-SCL
 $Comp
 L power:GND #PWR08
 U 1 1 5FDA403D
@@ -2536,7 +2529,7 @@ F0 "leds" 50
 F1 "leds.sch" 50
 F2 "LED" I R 8900 4900 50 
 $EndSheet
-Text GLabel 2400 4200 2    50   Input ~ 0
+Text GLabel 2400 1000 2    50   Input ~ 0
 LED
 Text GLabel 8900 4900 2    50   Input ~ 0
 LED
@@ -2550,4 +2543,42 @@ Wire Wire Line
 Wire Wire Line
 	8500 3250 8500 3850
 Connection ~ 8500 3250
+$Comp
+L Connector:Conn_01x02_Male J3
+U 1 1 6015AB67
+P 6500 6250
+F 0 "J3" H 6608 6431 50  0000 C CNN
+F 1 "Conn_01x02_Male" H 6608 6340 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal" H 6500 6250 50  0001 C CNN
+F 3 "~" H 6500 6250 50  0001 C CNN
+	1    6500 6250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6700 5950 6800 5950
+Wire Wire Line
+	6800 5950 6800 6250
+Wire Wire Line
+	6800 6250 6700 6250
+Wire Wire Line
+	6700 6050 6850 6050
+Wire Wire Line
+	6850 6050 6850 6350
+Wire Wire Line
+	6850 6350 6700 6350
+Text GLabel 6700 6600 2    50   Input ~ 0
+SCL
+Text GLabel 6700 6500 2    50   Input ~ 0
+SDA
+$Comp
+L Connector:Conn_01x02_Male J4
+U 1 1 601A0FA2
+P 6500 6500
+F 0 "J4" H 6608 6681 50  0000 C CNN
+F 1 "Conn_01x02_Male" H 6608 6590 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal" H 6500 6500 50  0001 C CNN
+F 3 "~" H 6500 6500 50  0001 C CNN
+	1    6500 6500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
