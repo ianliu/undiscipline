@@ -1382,4 +1382,5 @@ Wire Wire Line
 Connection ~ 1150 5200
 Text HLabel 3850 1150 2    50   Input ~ 0
 LED
+NoConn ~ 6850 4900
 $EndSCHEMATC
