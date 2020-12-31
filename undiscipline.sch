@@ -1740,8 +1740,6 @@ Text GLabel 10000 1450 1    50   Input ~ 0
 col13
 Text GLabel 10500 1450 1    50   Input ~ 0
 col14
-Text GLabel 3100 1150 0    50   Input ~ 0
-row0
 Text GLabel 3100 1750 0    50   Input ~ 0
 row1
 Text GLabel 3100 2350 0    50   Input ~ 0
@@ -1774,9 +1772,9 @@ F 3 "~" H 1400 5950 50  0001 C CNN
 	1    1250 6000
 	1    0    0    -1  
 $EndComp
-Text GLabel 2100 6000 2    50   Input ~ 0
+Text GLabel 2100 6000 2    50   BiDi ~ 0
 D+
-Text GLabel 2100 6100 2    50   Input ~ 0
+Text GLabel 2100 6100 2    50   BiDi ~ 0
 D-
 NoConn ~ 1550 6200
 $Comp
@@ -1843,9 +1841,9 @@ F 3 "" H 1900 700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Connection ~ 1900 700 
-Text GLabel 2400 1400 2    50   Input ~ 0
+Text GLabel 2400 1400 2    50   Output ~ 0
 row3
-Text GLabel 2400 1200 2    50   Input ~ 0
+Text GLabel 2400 1200 2    50   Output ~ 0
 row1
 Text GLabel 2400 3300 2    50   Input ~ 0
 col0
@@ -1854,11 +1852,11 @@ col2
 Text GLabel 2400 1900 2    50   Input ~ 0
 col4
 NoConn ~ 2400 1700
-Text GLabel 2400 1500 2    50   Input ~ 0
+Text GLabel 2400 1500 2    50   Output ~ 0
 row4
-Text GLabel 2400 1300 2    50   Input ~ 0
+Text GLabel 2400 1300 2    50   Output ~ 0
 row2
-Text GLabel 2400 1100 2    50   Input ~ 0
+Text GLabel 2400 1100 2    50   Output ~ 0
 row0
 Text GLabel 2400 3200 2    50   Input ~ 0
 col1
@@ -1878,9 +1876,9 @@ Text GLabel 2400 2300 2    50   Input ~ 0
 col8
 Text GLabel 2400 2200 2    50   Input ~ 0
 col7
-Text GLabel 2400 3900 2    50   Input ~ 0
+Text GLabel 2400 3900 2    50   BiDi ~ 0
 D+
-Text GLabel 2400 4000 2    50   Input ~ 0
+Text GLabel 2400 4000 2    50   BiDi ~ 0
 D-
 Text GLabel 2400 4100 2    50   Input ~ 0
 boot
@@ -2341,7 +2339,7 @@ Text GLabel 2400 2800 2    50   Input ~ 0
 SCL
 Text GLabel 2400 2900 2    50   Input ~ 0
 SDA
-Text GLabel 2400 1600 2    50   Input ~ 0
+Text GLabel 2400 1600 2    50   Output ~ 0
 row5
 $Comp
 L Switch:SW_Push SW1
@@ -2529,7 +2527,7 @@ F0 "leds" 50
 F1 "leds.sch" 50
 F2 "LED" I R 8900 4900 50 
 $EndSheet
-Text GLabel 2400 1000 2    50   Input ~ 0
+Text GLabel 2400 1000 2    50   Output ~ 0
 LED
 Text GLabel 8900 4900 2    50   Input ~ 0
 LED
@@ -2782,4 +2780,6 @@ $EndComp
 NoConn ~ 2400 3400
 NoConn ~ 2400 3500
 NoConn ~ 2400 4400
+Text GLabel 3100 1150 0    50   Input ~ 0
+row0
 $EndSCHEMATC
