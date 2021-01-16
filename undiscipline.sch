@@ -1772,9 +1772,9 @@ F 3 "~" H 1400 5950 50  0001 C CNN
 	1    1250 6000
 	1    0    0    -1  
 $EndComp
-Text GLabel 2100 6000 2    50   BiDi ~ 0
+Text GLabel 2350 6000 2    50   BiDi ~ 0
 D+
-Text GLabel 2100 6100 2    50   BiDi ~ 0
+Text GLabel 2350 6100 2    50   BiDi ~ 0
 D-
 NoConn ~ 1550 6200
 $Comp
@@ -1950,23 +1950,23 @@ Connection ~ 850  1400
 $Comp
 L Device:R_Small R1
 U 1 1 600A4A74
-P 2000 6000
-F 0 "R1" V 2000 6000 50  0000 C CNN
-F 1 "75R" V 1900 6000 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 2000 6000 50  0001 C CNN
-F 3 "~" H 2000 6000 50  0001 C CNN
-	1    2000 6000
+P 2250 6000
+F 0 "R1" V 2250 6000 50  0000 C CNN
+F 1 "75R" V 2150 6000 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 2250 6000 50  0001 C CNN
+F 3 "~" H 2250 6000 50  0001 C CNN
+	1    2250 6000
 	0    1    1    0   
 $EndComp
 $Comp
 L Device:R_Small R2
 U 1 1 600B99AC
-P 2000 6100
-F 0 "R2" V 2000 6100 50  0000 C CNN
-F 1 "75R" V 2100 6100 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 2000 6100 50  0001 C CNN
-F 3 "~" H 2000 6100 50  0001 C CNN
-	1    2000 6100
+P 2250 6100
+F 0 "R2" V 2250 6100 50  0000 C CNN
+F 1 "75R" V 2350 6100 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 2250 6100 50  0001 C CNN
+F 3 "~" H 2250 6100 50  0001 C CNN
+	1    2250 6100
 	0    1    1    0   
 $EndComp
 $Comp
@@ -2132,11 +2132,11 @@ F 3 "" H 1800 6450 50  0001 C CNN
 $EndComp
 Connection ~ 1800 6450
 Wire Wire Line
-	1900 6100 1800 6100
+	2150 6100 1800 6100
 Wire Wire Line
 	1800 6100 1800 6250
 Wire Wire Line
-	1900 6000 1650 6000
+	2150 6000 1650 6000
 Wire Wire Line
 	1650 6000 1650 6250
 Wire Wire Line
@@ -2803,5 +2803,30 @@ F 2 "" H 5950 4650 50  0001 C CNN
 F 3 "" H 5950 4650 50  0001 C CNN
 	1    5950 4650
 	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R4
+U 1 1 6004A4D2
+P 2150 6350
+F 0 "R4" H 2209 6396 50  0000 L CNN
+F 1 "1500" H 2209 6305 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 2150 6350 50  0001 C CNN
+F 3 "~" H 2150 6350 50  0001 C CNN
+	1    2150 6350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2150 6250 2150 6100
+Connection ~ 2150 6100
+$Comp
+L power:+5V #PWR0102
+U 1 1 60083CF2
+P 2150 6450
+F 0 "#PWR0102" H 2150 6300 50  0001 C CNN
+F 1 "+5V" H 2165 6623 50  0000 C CNN
+F 2 "" H 2150 6450 50  0001 C CNN
+F 3 "" H 2150 6450 50  0001 C CNN
+	1    2150 6450
+	-1   0    0    1   
 $EndComp
 $EndSCHEMATC
