@@ -4,10 +4,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 2
-Title ""
-Date ""
+Title "Undiscipline Keyboard"
+Date "2021-01-14"
 Rev ""
-Comp ""
+Comp "ILR"
 Comment1 ""
 Comment2 ""
 Comment3 ""
@@ -2782,4 +2782,26 @@ NoConn ~ 2400 3500
 NoConn ~ 2400 4400
 Text GLabel 3100 1150 0    50   Input ~ 0
 row0
+$Comp
+L Mechanical:MountingHole_Pad H10
+U 1 1 600121D8
+P 5950 4550
+F 0 "H10" H 6050 4599 50  0000 L CNN
+F 1 "MountingHole_Pad" H 6050 4508 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad_TopBottom" H 5950 4550 50  0001 C CNN
+F 3 "~" H 5950 4550 50  0001 C CNN
+	1    5950 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 6001D0AA
+P 5950 4650
+F 0 "#PWR0101" H 5950 4400 50  0001 C CNN
+F 1 "GND" H 5955 4477 50  0000 C CNN
+F 2 "" H 5950 4650 50  0001 C CNN
+F 3 "" H 5950 4650 50  0001 C CNN
+	1    5950 4650
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

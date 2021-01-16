@@ -4,10 +4,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 2
-Title ""
-Date ""
+Title "Undiscipline Keyboard"
+Date "2021-01-14"
 Rev ""
-Comp ""
+Comp "ILR"
 Comment1 ""
 Comment2 ""
 Comment3 ""
