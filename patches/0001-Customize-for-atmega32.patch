@@ -1,0 +1,67 @@
+From 153297f0d3721811ce237f5342d7dac630fda113 Mon Sep 17 00:00:00 2001
+From: Ian Liu Rodrigues <ian.liu88@gmail.com>
+Date: Sun, 7 Mar 2021 18:33:32 -0300
+Subject: [PATCH] Customize for atmega32
+
+---
+ Makefile.inc                | 4 ++--
+ firmware/bootloaderconfig.h | 8 ++++----
+ 2 files changed, 6 insertions(+), 6 deletions(-)
+
+diff --git a/Makefile.inc b/Makefile.inc
+index 537444f..6b1c153 100644
+--- a/Makefile.inc
++++ b/Makefile.inc
+@@ -6,7 +6,7 @@
+ # License: GNU GPL v2 (see License.txt)
+ 
+ F_CPU = 16000000
+-DEVICE = atmega8
++DEVICE = atmega32
+ 
+ # where the updating firmware should be located (starting address)
+ FLASHADDRESS = 0x0000
+@@ -37,7 +37,7 @@ DANGEROUS=0
+ 
+ # PROGRAMMER contains AVRDUDE options to address your programmer
+ # PROGRAMMER = -c pony-stk200
+-PROGRAMMER = -c usbasp
++PROGRAMMER = -v -c stk500v1 -P /dev/ttyACM0 -b 19200
+ 
+ #  since USBaspLoader supports HAVE_BLB11_SOFTW_LOCKBIT...
+ LOCKOPT = -U lock:w:0x3f:m
+diff --git a/firmware/bootloaderconfig.h b/firmware/bootloaderconfig.h
+index 31a2479..61efd9a 100644
+--- a/firmware/bootloaderconfig.h
++++ b/firmware/bootloaderconfig.h
+@@ -71,15 +71,15 @@ these macros are defined, the boot loader usees them.
+ 
+ #ifndef USB_CFG_DMINUS_BIT
+   /* This is Revision 3 and later (where PD6 and PD7 were swapped */
+-  #define USB_CFG_DMINUS_BIT      7    /* Rev.2 and previous was 6 */
++  #define USB_CFG_DMINUS_BIT      3    /* Rev.2 and previous was 6 */
+ #endif
+-/* This is the bit number in USB_CFG_IOPORT where the USB D- line is connected.
++/* This is the bit number in USB_CFG_IOPORTNAME where the USB D- line is connected.
+  * This may be any bit in the port.
+  */
+ #ifndef USB_CFG_DPLUS_BIT
+   #define USB_CFG_DPLUS_BIT       USB_CFG_INTPORT_BIT
+ #endif
+-/* This is the bit number in USB_CFG_IOPORT where the USB D+ line is connected.
++/* This is the bit number in USB_CFG_IOPORTNAME where the USB D+ line is connected.
+  * This may be any bit in the port. Please note that D+ must also be connected
+  * to interrupt pin INT0!
+  */
+@@ -91,7 +91,7 @@ these macros are defined, the boot loader usees them.
+  */
+ #ifndef JUMPER_BIT
+   /* This is Revision 3 and later (where PD6 and PD7 were swapped */
+-  #define JUMPER_BIT           6       /* Rev.2 and previous was 7 */
++  #define JUMPER_BIT           4       /* Rev.2 and previous was 7 */
+ #endif
+ /* 
+  * jumper is connected to this bit in port "JUMPER_PORT", active low
+-- 
+2.30.1
+
