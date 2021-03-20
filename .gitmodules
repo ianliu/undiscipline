@@ -1,0 +1,3 @@
+[submodule "USBaspLoader"]
+	path = USBaspLoader
+	url = https://github.com/baerwolf/USBaspLoader
