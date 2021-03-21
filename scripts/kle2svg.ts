@@ -91,13 +91,6 @@ function* iterKeys(data: KLE) {
     }
 }
 
-const s0: State = {
-    row: 0,
-    col: 0,
-    x: 0,
-    y: 0,
-};
-
 interface Show {
     toString(): string
 }
