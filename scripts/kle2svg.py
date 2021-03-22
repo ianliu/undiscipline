@@ -136,7 +136,7 @@ def key2svg(key: Key) -> list[Node]:
                 "height": U,
                 "stroke": "black",
                 "stroke-width": 0.2,
-                "fill-opacity": 0.1,
+                "fill": "#eee",
             },
         ),
         Node(
@@ -146,7 +146,7 @@ def key2svg(key: Key) -> list[Node]:
                 "y": y * U + (U - 14) / 2,
                 "width": 14,
                 "height": 14,
-                "fill-opacity": 0.3,
+                "fill": "#aaa",
             },
         ),
         Node(
@@ -191,7 +191,7 @@ if __name__ == "__main__":
         with open("undiscipline.svg", "w") as f:
             f.write('<?xml version="1.0" encoding="UTF-8" ?>')
             f.write(
-                '<svg width="800" viewBox="0 0 350 150" xmlns="http://www.w3.org/2000/svg">'
+                '<svg width="420mm" height="297mm" viewBox="0 0 420 297" xmlns="http://www.w3.org/2000/svg">'
             )
             f.write(nodes2xml(svg))
             f.write("</svg>")
