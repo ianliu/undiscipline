@@ -19,21 +19,10 @@ U 1 1 5FD52350
 P 3300 1450
 F 0 "SW6" H 3300 1735 50  0000 C CNN
 F 1 "SW_Push" H 3300 1644 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 3300 1650 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 3300 1650 50  0001 C CNN
 F 3 "~" H 3300 1650 50  0001 C CNN
 	1    3300 1450
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D6
-U 1 1 5FD528A6
-P 3100 1600
-F 0 "D6" V 3146 1520 50  0000 R CNN
-F 1 "D" V 3055 1520 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3100 1600 50  0001 C CNN
-F 3 "~" H 3100 1600 50  0001 C CNN
-	1    3100 1600
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW7
@@ -41,21 +30,10 @@ U 1 1 5FD5354C
 P 3800 1450
 F 0 "SW7" H 3800 1735 50  0000 C CNN
 F 1 "SW_Push" H 3800 1644 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 3800 1650 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 3800 1650 50  0001 C CNN
 F 3 "~" H 3800 1650 50  0001 C CNN
 	1    3800 1450
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D7
-U 1 1 5FD53552
-P 3600 1600
-F 0 "D7" V 3646 1520 50  0000 R CNN
-F 1 "D" V 3555 1520 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3600 1600 50  0001 C CNN
-F 3 "~" H 3600 1600 50  0001 C CNN
-	1    3600 1600
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW8
@@ -63,21 +41,10 @@ U 1 1 5FD5477A
 P 4300 1450
 F 0 "SW8" H 4300 1735 50  0000 C CNN
 F 1 "SW_Push" H 4300 1644 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 4300 1650 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 4300 1650 50  0001 C CNN
 F 3 "~" H 4300 1650 50  0001 C CNN
 	1    4300 1450
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D8
-U 1 1 5FD54780
-P 4100 1600
-F 0 "D8" V 4146 1520 50  0000 R CNN
-F 1 "D" V 4055 1520 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4100 1600 50  0001 C CNN
-F 3 "~" H 4100 1600 50  0001 C CNN
-	1    4100 1600
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW9
@@ -85,21 +52,10 @@ U 1 1 5FD54786
 P 4800 1450
 F 0 "SW9" H 4800 1735 50  0000 C CNN
 F 1 "SW_Push" H 4800 1644 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 4800 1650 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 4800 1650 50  0001 C CNN
 F 3 "~" H 4800 1650 50  0001 C CNN
 	1    4800 1450
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D9
-U 1 1 5FD5478C
-P 4600 1600
-F 0 "D9" V 4646 1520 50  0000 R CNN
-F 1 "D" V 4555 1520 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4600 1600 50  0001 C CNN
-F 3 "~" H 4600 1600 50  0001 C CNN
-	1    4600 1600
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW10
@@ -107,21 +63,10 @@ U 1 1 5FD569D8
 P 5300 1450
 F 0 "SW10" H 5300 1735 50  0000 C CNN
 F 1 "SW_Push" H 5300 1644 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 5300 1650 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 5300 1650 50  0001 C CNN
 F 3 "~" H 5300 1650 50  0001 C CNN
 	1    5300 1450
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D10
-U 1 1 5FD569DE
-P 5100 1600
-F 0 "D10" V 5146 1520 50  0000 R CNN
-F 1 "D" V 5055 1520 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5100 1600 50  0001 C CNN
-F 3 "~" H 5100 1600 50  0001 C CNN
-	1    5100 1600
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW11
@@ -129,21 +74,10 @@ U 1 1 5FD569E4
 P 5800 1450
 F 0 "SW11" H 5800 1735 50  0000 C CNN
 F 1 "SW_Push" H 5800 1644 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 5800 1650 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 5800 1650 50  0001 C CNN
 F 3 "~" H 5800 1650 50  0001 C CNN
 	1    5800 1450
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D11
-U 1 1 5FD569EA
-P 5600 1600
-F 0 "D11" V 5646 1520 50  0000 R CNN
-F 1 "D" V 5555 1520 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5600 1600 50  0001 C CNN
-F 3 "~" H 5600 1600 50  0001 C CNN
-	1    5600 1600
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW12
@@ -151,21 +85,10 @@ U 1 1 5FD569F0
 P 6300 1450
 F 0 "SW12" H 6300 1735 50  0000 C CNN
 F 1 "SW_Push" H 6300 1644 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 6300 1650 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 6300 1650 50  0001 C CNN
 F 3 "~" H 6300 1650 50  0001 C CNN
 	1    6300 1450
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D12
-U 1 1 5FD569F6
-P 6100 1600
-F 0 "D12" V 6146 1520 50  0000 R CNN
-F 1 "D" V 6055 1520 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 6100 1600 50  0001 C CNN
-F 3 "~" H 6100 1600 50  0001 C CNN
-	1    6100 1600
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW13
@@ -173,21 +96,10 @@ U 1 1 5FD569FC
 P 6800 1450
 F 0 "SW13" H 6800 1735 50  0000 C CNN
 F 1 "SW_Push" H 6800 1644 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 6800 1650 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 6800 1650 50  0001 C CNN
 F 3 "~" H 6800 1650 50  0001 C CNN
 	1    6800 1450
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D13
-U 1 1 5FD56A02
-P 6600 1600
-F 0 "D13" V 6646 1520 50  0000 R CNN
-F 1 "D" V 6555 1520 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 6600 1600 50  0001 C CNN
-F 3 "~" H 6600 1600 50  0001 C CNN
-	1    6600 1600
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW14
@@ -195,21 +107,10 @@ U 1 1 5FD5D916
 P 7300 1450
 F 0 "SW14" H 7300 1735 50  0000 C CNN
 F 1 "SW_Push" H 7300 1644 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 7300 1650 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 7300 1650 50  0001 C CNN
 F 3 "~" H 7300 1650 50  0001 C CNN
 	1    7300 1450
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D14
-U 1 1 5FD5D91C
-P 7100 1600
-F 0 "D14" V 7146 1520 50  0000 R CNN
-F 1 "D" V 7055 1520 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 7100 1600 50  0001 C CNN
-F 3 "~" H 7100 1600 50  0001 C CNN
-	1    7100 1600
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW15
@@ -217,21 +118,10 @@ U 1 1 5FD5D922
 P 7800 1450
 F 0 "SW15" H 7800 1735 50  0000 C CNN
 F 1 "SW_Push" H 7800 1644 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 7800 1650 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 7800 1650 50  0001 C CNN
 F 3 "~" H 7800 1650 50  0001 C CNN
 	1    7800 1450
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D15
-U 1 1 5FD5D928
-P 7600 1600
-F 0 "D15" V 7646 1520 50  0000 R CNN
-F 1 "D" V 7555 1520 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 7600 1600 50  0001 C CNN
-F 3 "~" H 7600 1600 50  0001 C CNN
-	1    7600 1600
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW16
@@ -239,21 +129,10 @@ U 1 1 5FD5D92E
 P 8300 1450
 F 0 "SW16" H 8300 1735 50  0000 C CNN
 F 1 "SW_Push" H 8300 1644 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 8300 1650 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 8300 1650 50  0001 C CNN
 F 3 "~" H 8300 1650 50  0001 C CNN
 	1    8300 1450
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D16
-U 1 1 5FD5D934
-P 8100 1600
-F 0 "D16" V 8146 1520 50  0000 R CNN
-F 1 "D" V 8055 1520 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 8100 1600 50  0001 C CNN
-F 3 "~" H 8100 1600 50  0001 C CNN
-	1    8100 1600
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW17
@@ -261,21 +140,10 @@ U 1 1 5FD5D93A
 P 8800 1450
 F 0 "SW17" H 8800 1735 50  0000 C CNN
 F 1 "SW_Push" H 8800 1644 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 8800 1650 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 8800 1650 50  0001 C CNN
 F 3 "~" H 8800 1650 50  0001 C CNN
 	1    8800 1450
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D17
-U 1 1 5FD5D940
-P 8600 1600
-F 0 "D17" V 8646 1520 50  0000 R CNN
-F 1 "D" V 8555 1520 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 8600 1600 50  0001 C CNN
-F 3 "~" H 8600 1600 50  0001 C CNN
-	1    8600 1600
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW18
@@ -283,21 +151,10 @@ U 1 1 5FD5D946
 P 9300 1450
 F 0 "SW18" H 9300 1735 50  0000 C CNN
 F 1 "SW_Push" H 9300 1644 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 9300 1650 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 9300 1650 50  0001 C CNN
 F 3 "~" H 9300 1650 50  0001 C CNN
 	1    9300 1450
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D18
-U 1 1 5FD5D94C
-P 9100 1600
-F 0 "D18" V 9146 1520 50  0000 R CNN
-F 1 "D" V 9055 1520 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 9100 1600 50  0001 C CNN
-F 3 "~" H 9100 1600 50  0001 C CNN
-	1    9100 1600
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW19
@@ -305,21 +162,10 @@ U 1 1 5FD5D952
 P 9800 1450
 F 0 "SW19" H 9800 1735 50  0000 C CNN
 F 1 "SW_Push" H 9800 1644 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 9800 1650 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_Plate" H 9800 1650 50  0001 C CNN
 F 3 "~" H 9800 1650 50  0001 C CNN
 	1    9800 1450
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D19
-U 1 1 5FD5D958
-P 9600 1600
-F 0 "D19" V 9646 1520 50  0000 R CNN
-F 1 "D" V 9555 1520 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 9600 1600 50  0001 C CNN
-F 3 "~" H 9600 1600 50  0001 C CNN
-	1    9600 1600
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW20
@@ -327,21 +173,10 @@ U 1 1 5FD5D95E
 P 10300 1450
 F 0 "SW20" H 10300 1735 50  0000 C CNN
 F 1 "SW_Push" H 10300 1644 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 10300 1650 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10300 1650 50  0001 C CNN
 F 3 "~" H 10300 1650 50  0001 C CNN
 	1    10300 1450
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D20
-U 1 1 5FD5D964
-P 10100 1600
-F 0 "D20" V 10146 1520 50  0000 R CNN
-F 1 "D" V 10055 1520 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 10100 1600 50  0001 C CNN
-F 3 "~" H 10100 1600 50  0001 C CNN
-	1    10100 1600
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW22
@@ -349,7 +184,7 @@ U 1 1 5FD6B44E
 P 3300 2050
 F 0 "SW22" H 3300 2335 50  0000 C CNN
 F 1 "SW_Push" H 3300 2244 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 3300 2250 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_Plate" H 3300 2250 50  0001 C CNN
 F 3 "~" H 3300 2250 50  0001 C CNN
 	1    3300 2050
 	1    0    0    -1  
@@ -357,12 +192,12 @@ $EndComp
 $Comp
 L Device:D D22
 U 1 1 5FD6B454
-P 3100 2200
-F 0 "D22" V 3146 2120 50  0000 R CNN
-F 1 "D" V 3055 2120 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3100 2200 50  0001 C CNN
-F 3 "~" H 3100 2200 50  0001 C CNN
-	1    3100 2200
+P 3500 2200
+F 0 "D22" V 3546 2120 50  0000 R CNN
+F 1 "D" V 3455 2120 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3500 2200 50  0001 C CNN
+F 3 "~" H 3500 2200 50  0001 C CNN
+	1    3500 2200
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -371,7 +206,7 @@ U 1 1 5FD6B45A
 P 3800 2050
 F 0 "SW23" H 3800 2335 50  0000 C CNN
 F 1 "SW_Push" H 3800 2244 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 3800 2250 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 3800 2250 50  0001 C CNN
 F 3 "~" H 3800 2250 50  0001 C CNN
 	1    3800 2050
 	1    0    0    -1  
@@ -379,12 +214,12 @@ $EndComp
 $Comp
 L Device:D D23
 U 1 1 5FD6B460
-P 3600 2200
-F 0 "D23" V 3646 2120 50  0000 R CNN
-F 1 "D" V 3555 2120 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3600 2200 50  0001 C CNN
-F 3 "~" H 3600 2200 50  0001 C CNN
-	1    3600 2200
+P 4000 2200
+F 0 "D23" V 4046 2120 50  0000 R CNN
+F 1 "D" V 3955 2120 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4000 2200 50  0001 C CNN
+F 3 "~" H 4000 2200 50  0001 C CNN
+	1    4000 2200
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -393,7 +228,7 @@ U 1 1 5FD6B466
 P 4300 2050
 F 0 "SW24" H 4300 2335 50  0000 C CNN
 F 1 "SW_Push" H 4300 2244 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 4300 2250 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 4300 2250 50  0001 C CNN
 F 3 "~" H 4300 2250 50  0001 C CNN
 	1    4300 2050
 	1    0    0    -1  
@@ -401,12 +236,12 @@ $EndComp
 $Comp
 L Device:D D24
 U 1 1 5FD6B46C
-P 4100 2200
-F 0 "D24" V 4146 2120 50  0000 R CNN
-F 1 "D" V 4055 2120 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4100 2200 50  0001 C CNN
-F 3 "~" H 4100 2200 50  0001 C CNN
-	1    4100 2200
+P 4500 2200
+F 0 "D24" V 4546 2120 50  0000 R CNN
+F 1 "D" V 4455 2120 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4500 2200 50  0001 C CNN
+F 3 "~" H 4500 2200 50  0001 C CNN
+	1    4500 2200
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -415,7 +250,7 @@ U 1 1 5FD6B472
 P 4800 2050
 F 0 "SW25" H 4800 2335 50  0000 C CNN
 F 1 "SW_Push" H 4800 2244 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 4800 2250 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 4800 2250 50  0001 C CNN
 F 3 "~" H 4800 2250 50  0001 C CNN
 	1    4800 2050
 	1    0    0    -1  
@@ -423,12 +258,12 @@ $EndComp
 $Comp
 L Device:D D25
 U 1 1 5FD6B478
-P 4600 2200
-F 0 "D25" V 4646 2120 50  0000 R CNN
-F 1 "D" V 4555 2120 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4600 2200 50  0001 C CNN
-F 3 "~" H 4600 2200 50  0001 C CNN
-	1    4600 2200
+P 5000 2200
+F 0 "D25" V 5046 2120 50  0000 R CNN
+F 1 "D" V 4955 2120 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5000 2200 50  0001 C CNN
+F 3 "~" H 5000 2200 50  0001 C CNN
+	1    5000 2200
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -437,7 +272,7 @@ U 1 1 5FD6B47E
 P 5300 2050
 F 0 "SW26" H 5300 2335 50  0000 C CNN
 F 1 "SW_Push" H 5300 2244 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 5300 2250 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 5300 2250 50  0001 C CNN
 F 3 "~" H 5300 2250 50  0001 C CNN
 	1    5300 2050
 	1    0    0    -1  
@@ -445,12 +280,12 @@ $EndComp
 $Comp
 L Device:D D26
 U 1 1 5FD6B484
-P 5100 2200
-F 0 "D26" V 5146 2120 50  0000 R CNN
-F 1 "D" V 5055 2120 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5100 2200 50  0001 C CNN
-F 3 "~" H 5100 2200 50  0001 C CNN
-	1    5100 2200
+P 5500 2200
+F 0 "D26" V 5546 2120 50  0000 R CNN
+F 1 "D" V 5455 2120 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5500 2200 50  0001 C CNN
+F 3 "~" H 5500 2200 50  0001 C CNN
+	1    5500 2200
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -459,7 +294,7 @@ U 1 1 5FD6B48A
 P 5800 2050
 F 0 "SW27" H 5800 2335 50  0000 C CNN
 F 1 "SW_Push" H 5800 2244 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 5800 2250 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 5800 2250 50  0001 C CNN
 F 3 "~" H 5800 2250 50  0001 C CNN
 	1    5800 2050
 	1    0    0    -1  
@@ -467,12 +302,12 @@ $EndComp
 $Comp
 L Device:D D27
 U 1 1 5FD6B490
-P 5600 2200
-F 0 "D27" V 5646 2120 50  0000 R CNN
-F 1 "D" V 5555 2120 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5600 2200 50  0001 C CNN
-F 3 "~" H 5600 2200 50  0001 C CNN
-	1    5600 2200
+P 6000 2200
+F 0 "D27" V 6046 2120 50  0000 R CNN
+F 1 "D" V 5955 2120 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 6000 2200 50  0001 C CNN
+F 3 "~" H 6000 2200 50  0001 C CNN
+	1    6000 2200
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -481,7 +316,7 @@ U 1 1 5FD6B496
 P 6300 2050
 F 0 "SW28" H 6300 2335 50  0000 C CNN
 F 1 "SW_Push" H 6300 2244 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 6300 2250 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 6300 2250 50  0001 C CNN
 F 3 "~" H 6300 2250 50  0001 C CNN
 	1    6300 2050
 	1    0    0    -1  
@@ -489,12 +324,12 @@ $EndComp
 $Comp
 L Device:D D28
 U 1 1 5FD6B49C
-P 6100 2200
-F 0 "D28" V 6146 2120 50  0000 R CNN
-F 1 "D" V 6055 2120 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 6100 2200 50  0001 C CNN
-F 3 "~" H 6100 2200 50  0001 C CNN
-	1    6100 2200
+P 6500 2200
+F 0 "D28" V 6546 2120 50  0000 R CNN
+F 1 "D" V 6455 2120 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 6500 2200 50  0001 C CNN
+F 3 "~" H 6500 2200 50  0001 C CNN
+	1    6500 2200
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -503,7 +338,7 @@ U 1 1 5FD6B4A2
 P 6800 2050
 F 0 "SW29" H 6800 2335 50  0000 C CNN
 F 1 "SW_Push" H 6800 2244 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 6800 2250 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 6800 2250 50  0001 C CNN
 F 3 "~" H 6800 2250 50  0001 C CNN
 	1    6800 2050
 	1    0    0    -1  
@@ -511,12 +346,12 @@ $EndComp
 $Comp
 L Device:D D29
 U 1 1 5FD6B4A8
-P 6600 2200
-F 0 "D29" V 6646 2120 50  0000 R CNN
-F 1 "D" V 6555 2120 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 6600 2200 50  0001 C CNN
-F 3 "~" H 6600 2200 50  0001 C CNN
-	1    6600 2200
+P 7000 2200
+F 0 "D29" V 7046 2120 50  0000 R CNN
+F 1 "D" V 6955 2120 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 7000 2200 50  0001 C CNN
+F 3 "~" H 7000 2200 50  0001 C CNN
+	1    7000 2200
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -525,7 +360,7 @@ U 1 1 5FD6B4AE
 P 7300 2050
 F 0 "SW30" H 7300 2335 50  0000 C CNN
 F 1 "SW_Push" H 7300 2244 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 7300 2250 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 7300 2250 50  0001 C CNN
 F 3 "~" H 7300 2250 50  0001 C CNN
 	1    7300 2050
 	1    0    0    -1  
@@ -533,12 +368,12 @@ $EndComp
 $Comp
 L Device:D D30
 U 1 1 5FD6B4B4
-P 7100 2200
-F 0 "D30" V 7146 2120 50  0000 R CNN
-F 1 "D" V 7055 2120 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 7100 2200 50  0001 C CNN
-F 3 "~" H 7100 2200 50  0001 C CNN
-	1    7100 2200
+P 7500 2200
+F 0 "D30" V 7546 2120 50  0000 R CNN
+F 1 "D" V 7455 2120 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 7500 2200 50  0001 C CNN
+F 3 "~" H 7500 2200 50  0001 C CNN
+	1    7500 2200
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -547,7 +382,7 @@ U 1 1 5FD6B4BA
 P 7800 2050
 F 0 "SW31" H 7800 2335 50  0000 C CNN
 F 1 "SW_Push" H 7800 2244 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 7800 2250 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 7800 2250 50  0001 C CNN
 F 3 "~" H 7800 2250 50  0001 C CNN
 	1    7800 2050
 	1    0    0    -1  
@@ -555,12 +390,12 @@ $EndComp
 $Comp
 L Device:D D31
 U 1 1 5FD6B4C0
-P 7600 2200
-F 0 "D31" V 7646 2120 50  0000 R CNN
-F 1 "D" V 7555 2120 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 7600 2200 50  0001 C CNN
-F 3 "~" H 7600 2200 50  0001 C CNN
-	1    7600 2200
+P 8000 2200
+F 0 "D31" V 8046 2120 50  0000 R CNN
+F 1 "D" V 7955 2120 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 8000 2200 50  0001 C CNN
+F 3 "~" H 8000 2200 50  0001 C CNN
+	1    8000 2200
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -569,7 +404,7 @@ U 1 1 5FD6B4C6
 P 8300 2050
 F 0 "SW32" H 8300 2335 50  0000 C CNN
 F 1 "SW_Push" H 8300 2244 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 8300 2250 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 8300 2250 50  0001 C CNN
 F 3 "~" H 8300 2250 50  0001 C CNN
 	1    8300 2050
 	1    0    0    -1  
@@ -577,12 +412,12 @@ $EndComp
 $Comp
 L Device:D D32
 U 1 1 5FD6B4CC
-P 8100 2200
-F 0 "D32" V 8146 2120 50  0000 R CNN
-F 1 "D" V 8055 2120 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 8100 2200 50  0001 C CNN
-F 3 "~" H 8100 2200 50  0001 C CNN
-	1    8100 2200
+P 8500 2200
+F 0 "D32" V 8546 2120 50  0000 R CNN
+F 1 "D" V 8455 2120 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 8500 2200 50  0001 C CNN
+F 3 "~" H 8500 2200 50  0001 C CNN
+	1    8500 2200
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -591,7 +426,7 @@ U 1 1 5FD6B4D2
 P 8800 2050
 F 0 "SW33" H 8800 2335 50  0000 C CNN
 F 1 "SW_Push" H 8800 2244 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 8800 2250 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 8800 2250 50  0001 C CNN
 F 3 "~" H 8800 2250 50  0001 C CNN
 	1    8800 2050
 	1    0    0    -1  
@@ -599,12 +434,12 @@ $EndComp
 $Comp
 L Device:D D33
 U 1 1 5FD6B4D8
-P 8600 2200
-F 0 "D33" V 8646 2120 50  0000 R CNN
-F 1 "D" V 8555 2120 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 8600 2200 50  0001 C CNN
-F 3 "~" H 8600 2200 50  0001 C CNN
-	1    8600 2200
+P 9000 2200
+F 0 "D33" V 9046 2120 50  0000 R CNN
+F 1 "D" V 8955 2120 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 9000 2200 50  0001 C CNN
+F 3 "~" H 9000 2200 50  0001 C CNN
+	1    9000 2200
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -613,7 +448,7 @@ U 1 1 5FD6B4DE
 P 9300 2050
 F 0 "SW34" H 9300 2335 50  0000 C CNN
 F 1 "SW_Push" H 9300 2244 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 9300 2250 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 9300 2250 50  0001 C CNN
 F 3 "~" H 9300 2250 50  0001 C CNN
 	1    9300 2050
 	1    0    0    -1  
@@ -621,12 +456,12 @@ $EndComp
 $Comp
 L Device:D D34
 U 1 1 5FD6B4E4
-P 9100 2200
-F 0 "D34" V 9146 2120 50  0000 R CNN
-F 1 "D" V 9055 2120 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 9100 2200 50  0001 C CNN
-F 3 "~" H 9100 2200 50  0001 C CNN
-	1    9100 2200
+P 9500 2200
+F 0 "D34" V 9546 2120 50  0000 R CNN
+F 1 "D" V 9455 2120 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 9500 2200 50  0001 C CNN
+F 3 "~" H 9500 2200 50  0001 C CNN
+	1    9500 2200
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -635,7 +470,7 @@ U 1 1 5FD6B4EA
 P 9800 2050
 F 0 "SW35" H 9800 2335 50  0000 C CNN
 F 1 "SW_Push" H 9800 2244 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 9800 2250 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_Plate" H 9800 2250 50  0001 C CNN
 F 3 "~" H 9800 2250 50  0001 C CNN
 	1    9800 2050
 	1    0    0    -1  
@@ -643,12 +478,12 @@ $EndComp
 $Comp
 L Device:D D35
 U 1 1 5FD6B4F0
-P 9600 2200
-F 0 "D35" V 9646 2120 50  0000 R CNN
-F 1 "D" V 9555 2120 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 9600 2200 50  0001 C CNN
-F 3 "~" H 9600 2200 50  0001 C CNN
-	1    9600 2200
+P 10000 2200
+F 0 "D35" V 10046 2120 50  0000 R CNN
+F 1 "D" V 9955 2120 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 10000 2200 50  0001 C CNN
+F 3 "~" H 10000 2200 50  0001 C CNN
+	1    10000 2200
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -657,7 +492,7 @@ U 1 1 5FD6B4F6
 P 10300 2050
 F 0 "SW36" H 10300 2335 50  0000 C CNN
 F 1 "SW_Push" H 10300 2244 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 10300 2250 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10300 2250 50  0001 C CNN
 F 3 "~" H 10300 2250 50  0001 C CNN
 	1    10300 2050
 	1    0    0    -1  
@@ -665,12 +500,12 @@ $EndComp
 $Comp
 L Device:D D36
 U 1 1 5FD6B4FC
-P 10100 2200
-F 0 "D36" V 10146 2120 50  0000 R CNN
-F 1 "D" V 10055 2120 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 10100 2200 50  0001 C CNN
-F 3 "~" H 10100 2200 50  0001 C CNN
-	1    10100 2200
+P 10500 2200
+F 0 "D36" V 10546 2120 50  0000 R CNN
+F 1 "D" V 10455 2120 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 10500 2200 50  0001 C CNN
+F 3 "~" H 10500 2200 50  0001 C CNN
+	1    10500 2200
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -679,7 +514,7 @@ U 1 1 5FD84A66
 P 3300 2650
 F 0 "SW38" H 3300 2935 50  0000 C CNN
 F 1 "SW_Push" H 3300 2844 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 3300 2850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_Plate" H 3300 2850 50  0001 C CNN
 F 3 "~" H 3300 2850 50  0001 C CNN
 	1    3300 2650
 	1    0    0    -1  
@@ -687,12 +522,12 @@ $EndComp
 $Comp
 L Device:D D38
 U 1 1 5FD84A6C
-P 3100 2800
-F 0 "D38" V 3146 2720 50  0000 R CNN
-F 1 "D" V 3055 2720 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3100 2800 50  0001 C CNN
-F 3 "~" H 3100 2800 50  0001 C CNN
-	1    3100 2800
+P 3500 2800
+F 0 "D38" V 3546 2720 50  0000 R CNN
+F 1 "D" V 3455 2720 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3500 2800 50  0001 C CNN
+F 3 "~" H 3500 2800 50  0001 C CNN
+	1    3500 2800
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -701,7 +536,7 @@ U 1 1 5FD84A72
 P 3800 2650
 F 0 "SW39" H 3800 2935 50  0000 C CNN
 F 1 "SW_Push" H 3800 2844 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 3800 2850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 3800 2850 50  0001 C CNN
 F 3 "~" H 3800 2850 50  0001 C CNN
 	1    3800 2650
 	1    0    0    -1  
@@ -709,12 +544,12 @@ $EndComp
 $Comp
 L Device:D D39
 U 1 1 5FD84A78
-P 3600 2800
-F 0 "D39" V 3646 2720 50  0000 R CNN
-F 1 "D" V 3555 2720 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3600 2800 50  0001 C CNN
-F 3 "~" H 3600 2800 50  0001 C CNN
-	1    3600 2800
+P 4000 2800
+F 0 "D39" V 4046 2720 50  0000 R CNN
+F 1 "D" V 3955 2720 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4000 2800 50  0001 C CNN
+F 3 "~" H 4000 2800 50  0001 C CNN
+	1    4000 2800
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -723,7 +558,7 @@ U 1 1 5FD84A7E
 P 4300 2650
 F 0 "SW40" H 4300 2935 50  0000 C CNN
 F 1 "SW_Push" H 4300 2844 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 4300 2850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 4300 2850 50  0001 C CNN
 F 3 "~" H 4300 2850 50  0001 C CNN
 	1    4300 2650
 	1    0    0    -1  
@@ -731,12 +566,12 @@ $EndComp
 $Comp
 L Device:D D40
 U 1 1 5FD84A84
-P 4100 2800
-F 0 "D40" V 4146 2720 50  0000 R CNN
-F 1 "D" V 4055 2720 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4100 2800 50  0001 C CNN
-F 3 "~" H 4100 2800 50  0001 C CNN
-	1    4100 2800
+P 4500 2800
+F 0 "D40" V 4546 2720 50  0000 R CNN
+F 1 "D" V 4455 2720 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4500 2800 50  0001 C CNN
+F 3 "~" H 4500 2800 50  0001 C CNN
+	1    4500 2800
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -745,7 +580,7 @@ U 1 1 5FD84A8A
 P 4800 2650
 F 0 "SW41" H 4800 2935 50  0000 C CNN
 F 1 "SW_Push" H 4800 2844 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 4800 2850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 4800 2850 50  0001 C CNN
 F 3 "~" H 4800 2850 50  0001 C CNN
 	1    4800 2650
 	1    0    0    -1  
@@ -753,12 +588,12 @@ $EndComp
 $Comp
 L Device:D D41
 U 1 1 5FD84A90
-P 4600 2800
-F 0 "D41" V 4646 2720 50  0000 R CNN
-F 1 "D" V 4555 2720 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4600 2800 50  0001 C CNN
-F 3 "~" H 4600 2800 50  0001 C CNN
-	1    4600 2800
+P 5000 2800
+F 0 "D41" V 5046 2720 50  0000 R CNN
+F 1 "D" V 4955 2720 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5000 2800 50  0001 C CNN
+F 3 "~" H 5000 2800 50  0001 C CNN
+	1    5000 2800
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -767,7 +602,7 @@ U 1 1 5FD84A96
 P 5300 2650
 F 0 "SW42" H 5300 2935 50  0000 C CNN
 F 1 "SW_Push" H 5300 2844 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 5300 2850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 5300 2850 50  0001 C CNN
 F 3 "~" H 5300 2850 50  0001 C CNN
 	1    5300 2650
 	1    0    0    -1  
@@ -775,12 +610,12 @@ $EndComp
 $Comp
 L Device:D D42
 U 1 1 5FD84A9C
-P 5100 2800
-F 0 "D42" V 5146 2720 50  0000 R CNN
-F 1 "D" V 5055 2720 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5100 2800 50  0001 C CNN
-F 3 "~" H 5100 2800 50  0001 C CNN
-	1    5100 2800
+P 5500 2800
+F 0 "D42" V 5546 2720 50  0000 R CNN
+F 1 "D" V 5455 2720 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5500 2800 50  0001 C CNN
+F 3 "~" H 5500 2800 50  0001 C CNN
+	1    5500 2800
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -789,7 +624,7 @@ U 1 1 5FD84AA2
 P 5800 2650
 F 0 "SW43" H 5800 2935 50  0000 C CNN
 F 1 "SW_Push" H 5800 2844 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 5800 2850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 5800 2850 50  0001 C CNN
 F 3 "~" H 5800 2850 50  0001 C CNN
 	1    5800 2650
 	1    0    0    -1  
@@ -797,12 +632,12 @@ $EndComp
 $Comp
 L Device:D D43
 U 1 1 5FD84AA8
-P 5600 2800
-F 0 "D43" V 5646 2720 50  0000 R CNN
-F 1 "D" V 5555 2720 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5600 2800 50  0001 C CNN
-F 3 "~" H 5600 2800 50  0001 C CNN
-	1    5600 2800
+P 6000 2800
+F 0 "D43" V 6046 2720 50  0000 R CNN
+F 1 "D" V 5955 2720 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 6000 2800 50  0001 C CNN
+F 3 "~" H 6000 2800 50  0001 C CNN
+	1    6000 2800
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -811,7 +646,7 @@ U 1 1 5FD84AAE
 P 6300 2650
 F 0 "SW44" H 6300 2935 50  0000 C CNN
 F 1 "SW_Push" H 6300 2844 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 6300 2850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 6300 2850 50  0001 C CNN
 F 3 "~" H 6300 2850 50  0001 C CNN
 	1    6300 2650
 	1    0    0    -1  
@@ -819,12 +654,12 @@ $EndComp
 $Comp
 L Device:D D44
 U 1 1 5FD84AB4
-P 6100 2800
-F 0 "D44" V 6146 2720 50  0000 R CNN
-F 1 "D" V 6055 2720 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 6100 2800 50  0001 C CNN
-F 3 "~" H 6100 2800 50  0001 C CNN
-	1    6100 2800
+P 6500 2800
+F 0 "D44" V 6546 2720 50  0000 R CNN
+F 1 "D" V 6455 2720 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 6500 2800 50  0001 C CNN
+F 3 "~" H 6500 2800 50  0001 C CNN
+	1    6500 2800
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -833,7 +668,7 @@ U 1 1 5FD84ABA
 P 6800 2650
 F 0 "SW45" H 6800 2935 50  0000 C CNN
 F 1 "SW_Push" H 6800 2844 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 6800 2850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 6800 2850 50  0001 C CNN
 F 3 "~" H 6800 2850 50  0001 C CNN
 	1    6800 2650
 	1    0    0    -1  
@@ -841,12 +676,12 @@ $EndComp
 $Comp
 L Device:D D45
 U 1 1 5FD84AC0
-P 6600 2800
-F 0 "D45" V 6646 2720 50  0000 R CNN
-F 1 "D" V 6555 2720 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 6600 2800 50  0001 C CNN
-F 3 "~" H 6600 2800 50  0001 C CNN
-	1    6600 2800
+P 7000 2800
+F 0 "D45" V 7046 2720 50  0000 R CNN
+F 1 "D" V 6955 2720 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 7000 2800 50  0001 C CNN
+F 3 "~" H 7000 2800 50  0001 C CNN
+	1    7000 2800
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -855,7 +690,7 @@ U 1 1 5FD84AC6
 P 7300 2650
 F 0 "SW46" H 7300 2935 50  0000 C CNN
 F 1 "SW_Push" H 7300 2844 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 7300 2850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 7300 2850 50  0001 C CNN
 F 3 "~" H 7300 2850 50  0001 C CNN
 	1    7300 2650
 	1    0    0    -1  
@@ -863,12 +698,12 @@ $EndComp
 $Comp
 L Device:D D46
 U 1 1 5FD84ACC
-P 7100 2800
-F 0 "D46" V 7146 2720 50  0000 R CNN
-F 1 "D" V 7055 2720 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 7100 2800 50  0001 C CNN
-F 3 "~" H 7100 2800 50  0001 C CNN
-	1    7100 2800
+P 7500 2800
+F 0 "D46" V 7546 2720 50  0000 R CNN
+F 1 "D" V 7455 2720 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 7500 2800 50  0001 C CNN
+F 3 "~" H 7500 2800 50  0001 C CNN
+	1    7500 2800
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -877,7 +712,7 @@ U 1 1 5FD84AD2
 P 7800 2650
 F 0 "SW47" H 7800 2935 50  0000 C CNN
 F 1 "SW_Push" H 7800 2844 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 7800 2850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 7800 2850 50  0001 C CNN
 F 3 "~" H 7800 2850 50  0001 C CNN
 	1    7800 2650
 	1    0    0    -1  
@@ -885,12 +720,12 @@ $EndComp
 $Comp
 L Device:D D47
 U 1 1 5FD84AD8
-P 7600 2800
-F 0 "D47" V 7646 2720 50  0000 R CNN
-F 1 "D" V 7555 2720 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 7600 2800 50  0001 C CNN
-F 3 "~" H 7600 2800 50  0001 C CNN
-	1    7600 2800
+P 8000 2800
+F 0 "D47" V 8046 2720 50  0000 R CNN
+F 1 "D" V 7955 2720 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 8000 2800 50  0001 C CNN
+F 3 "~" H 8000 2800 50  0001 C CNN
+	1    8000 2800
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -899,7 +734,7 @@ U 1 1 5FD84ADE
 P 8300 2650
 F 0 "SW48" H 8300 2935 50  0000 C CNN
 F 1 "SW_Push" H 8300 2844 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 8300 2850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 8300 2850 50  0001 C CNN
 F 3 "~" H 8300 2850 50  0001 C CNN
 	1    8300 2650
 	1    0    0    -1  
@@ -907,12 +742,12 @@ $EndComp
 $Comp
 L Device:D D48
 U 1 1 5FD84AE4
-P 8100 2800
-F 0 "D48" V 8146 2720 50  0000 R CNN
-F 1 "D" V 8055 2720 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 8100 2800 50  0001 C CNN
-F 3 "~" H 8100 2800 50  0001 C CNN
-	1    8100 2800
+P 8500 2800
+F 0 "D48" V 8546 2720 50  0000 R CNN
+F 1 "D" V 8455 2720 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 8500 2800 50  0001 C CNN
+F 3 "~" H 8500 2800 50  0001 C CNN
+	1    8500 2800
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -921,7 +756,7 @@ U 1 1 5FD84AEA
 P 8800 2650
 F 0 "SW49" H 8800 2935 50  0000 C CNN
 F 1 "SW_Push" H 8800 2844 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 8800 2850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 8800 2850 50  0001 C CNN
 F 3 "~" H 8800 2850 50  0001 C CNN
 	1    8800 2650
 	1    0    0    -1  
@@ -929,12 +764,12 @@ $EndComp
 $Comp
 L Device:D D49
 U 1 1 5FD84AF0
-P 8600 2800
-F 0 "D49" V 8646 2720 50  0000 R CNN
-F 1 "D" V 8555 2720 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 8600 2800 50  0001 C CNN
-F 3 "~" H 8600 2800 50  0001 C CNN
-	1    8600 2800
+P 9000 2800
+F 0 "D49" V 9046 2720 50  0000 R CNN
+F 1 "D" V 8955 2720 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 9000 2800 50  0001 C CNN
+F 3 "~" H 9000 2800 50  0001 C CNN
+	1    9000 2800
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -943,7 +778,7 @@ U 1 1 5FD84AF6
 P 9800 2650
 F 0 "SW50" H 9800 2935 50  0000 C CNN
 F 1 "SW_Push" H 9800 2844 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 9800 2850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_2.25u_Plate" H 9800 2850 50  0001 C CNN
 F 3 "~" H 9800 2850 50  0001 C CNN
 	1    9800 2650
 	1    0    0    -1  
@@ -951,12 +786,12 @@ $EndComp
 $Comp
 L Device:D D50
 U 1 1 5FD84AFC
-P 9600 2800
-F 0 "D50" V 9646 2720 50  0000 R CNN
-F 1 "D" V 9555 2720 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 9600 2800 50  0001 C CNN
-F 3 "~" H 9600 2800 50  0001 C CNN
-	1    9600 2800
+P 10000 2800
+F 0 "D50" V 10046 2720 50  0000 R CNN
+F 1 "D" V 9955 2720 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 10000 2800 50  0001 C CNN
+F 3 "~" H 10000 2800 50  0001 C CNN
+	1    10000 2800
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -965,7 +800,7 @@ U 1 1 5FD84B02
 P 10300 2650
 F 0 "SW51" H 10300 2935 50  0000 C CNN
 F 1 "SW_Push" H 10300 2844 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 10300 2850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10300 2850 50  0001 C CNN
 F 3 "~" H 10300 2850 50  0001 C CNN
 	1    10300 2650
 	1    0    0    -1  
@@ -973,12 +808,12 @@ $EndComp
 $Comp
 L Device:D D51
 U 1 1 5FD84B08
-P 10100 2800
-F 0 "D51" V 10146 2720 50  0000 R CNN
-F 1 "D" V 10055 2720 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 10100 2800 50  0001 C CNN
-F 3 "~" H 10100 2800 50  0001 C CNN
-	1    10100 2800
+P 10500 2800
+F 0 "D51" V 10546 2720 50  0000 R CNN
+F 1 "D" V 10455 2720 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 10500 2800 50  0001 C CNN
+F 3 "~" H 10500 2800 50  0001 C CNN
+	1    10500 2800
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -987,7 +822,7 @@ U 1 1 5FD84B0E
 P 3300 3250
 F 0 "SW53" H 3300 3535 50  0000 C CNN
 F 1 "SW_Push" H 3300 3444 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 3300 3450 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 3300 3450 50  0001 C CNN
 F 3 "~" H 3300 3450 50  0001 C CNN
 	1    3300 3250
 	1    0    0    -1  
@@ -995,12 +830,12 @@ $EndComp
 $Comp
 L Device:D D53
 U 1 1 5FD84B14
-P 3100 3400
-F 0 "D53" V 3146 3320 50  0000 R CNN
-F 1 "D" V 3055 3320 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3100 3400 50  0001 C CNN
-F 3 "~" H 3100 3400 50  0001 C CNN
-	1    3100 3400
+P 3500 3400
+F 0 "D53" V 3546 3320 50  0000 R CNN
+F 1 "D" V 3455 3320 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3500 3400 50  0001 C CNN
+F 3 "~" H 3500 3400 50  0001 C CNN
+	1    3500 3400
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1009,7 +844,7 @@ U 1 1 5FD84B1A
 P 4300 3250
 F 0 "SW54" H 4300 3535 50  0000 C CNN
 F 1 "SW_Push" H 4300 3444 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 4300 3450 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 4300 3450 50  0001 C CNN
 F 3 "~" H 4300 3450 50  0001 C CNN
 	1    4300 3250
 	1    0    0    -1  
@@ -1017,12 +852,12 @@ $EndComp
 $Comp
 L Device:D D54
 U 1 1 5FD84B20
-P 4100 3400
-F 0 "D54" V 4146 3320 50  0000 R CNN
-F 1 "D" V 4055 3320 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4100 3400 50  0001 C CNN
-F 3 "~" H 4100 3400 50  0001 C CNN
-	1    4100 3400
+P 4500 3400
+F 0 "D54" V 4546 3320 50  0000 R CNN
+F 1 "D" V 4455 3320 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4500 3400 50  0001 C CNN
+F 3 "~" H 4500 3400 50  0001 C CNN
+	1    4500 3400
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1031,7 +866,7 @@ U 1 1 5FD84B26
 P 4800 3250
 F 0 "SW55" H 4800 3535 50  0000 C CNN
 F 1 "SW_Push" H 4800 3444 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 4800 3450 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 4800 3450 50  0001 C CNN
 F 3 "~" H 4800 3450 50  0001 C CNN
 	1    4800 3250
 	1    0    0    -1  
@@ -1039,12 +874,12 @@ $EndComp
 $Comp
 L Device:D D55
 U 1 1 5FD84B2C
-P 4600 3400
-F 0 "D55" V 4646 3320 50  0000 R CNN
-F 1 "D" V 4555 3320 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4600 3400 50  0001 C CNN
-F 3 "~" H 4600 3400 50  0001 C CNN
-	1    4600 3400
+P 5000 3400
+F 0 "D55" V 5046 3320 50  0000 R CNN
+F 1 "D" V 4955 3320 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5000 3400 50  0001 C CNN
+F 3 "~" H 5000 3400 50  0001 C CNN
+	1    5000 3400
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1053,7 +888,7 @@ U 1 1 5FD84B32
 P 5300 3250
 F 0 "SW56" H 5300 3535 50  0000 C CNN
 F 1 "SW_Push" H 5300 3444 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 5300 3450 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 5300 3450 50  0001 C CNN
 F 3 "~" H 5300 3450 50  0001 C CNN
 	1    5300 3250
 	1    0    0    -1  
@@ -1061,12 +896,12 @@ $EndComp
 $Comp
 L Device:D D56
 U 1 1 5FD84B38
-P 5100 3400
-F 0 "D56" V 5146 3320 50  0000 R CNN
-F 1 "D" V 5055 3320 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5100 3400 50  0001 C CNN
-F 3 "~" H 5100 3400 50  0001 C CNN
-	1    5100 3400
+P 5500 3400
+F 0 "D56" V 5546 3320 50  0000 R CNN
+F 1 "D" V 5455 3320 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5500 3400 50  0001 C CNN
+F 3 "~" H 5500 3400 50  0001 C CNN
+	1    5500 3400
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1075,7 +910,7 @@ U 1 1 5FD84B3E
 P 5800 3250
 F 0 "SW57" H 5800 3535 50  0000 C CNN
 F 1 "SW_Push" H 5800 3444 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 5800 3450 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 5800 3450 50  0001 C CNN
 F 3 "~" H 5800 3450 50  0001 C CNN
 	1    5800 3250
 	1    0    0    -1  
@@ -1083,12 +918,12 @@ $EndComp
 $Comp
 L Device:D D57
 U 1 1 5FD84B44
-P 5600 3400
-F 0 "D57" V 5646 3320 50  0000 R CNN
-F 1 "D" V 5555 3320 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5600 3400 50  0001 C CNN
-F 3 "~" H 5600 3400 50  0001 C CNN
-	1    5600 3400
+P 6000 3400
+F 0 "D57" V 6046 3320 50  0000 R CNN
+F 1 "D" V 5955 3320 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 6000 3400 50  0001 C CNN
+F 3 "~" H 6000 3400 50  0001 C CNN
+	1    6000 3400
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1097,7 +932,7 @@ U 1 1 5FD84B4A
 P 6300 3250
 F 0 "SW58" H 6300 3535 50  0000 C CNN
 F 1 "SW_Push" H 6300 3444 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 6300 3450 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 6300 3450 50  0001 C CNN
 F 3 "~" H 6300 3450 50  0001 C CNN
 	1    6300 3250
 	1    0    0    -1  
@@ -1105,12 +940,12 @@ $EndComp
 $Comp
 L Device:D D58
 U 1 1 5FD84B50
-P 6100 3400
-F 0 "D58" V 6146 3320 50  0000 R CNN
-F 1 "D" V 6055 3320 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 6100 3400 50  0001 C CNN
-F 3 "~" H 6100 3400 50  0001 C CNN
-	1    6100 3400
+P 6500 3400
+F 0 "D58" V 6546 3320 50  0000 R CNN
+F 1 "D" V 6455 3320 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 6500 3400 50  0001 C CNN
+F 3 "~" H 6500 3400 50  0001 C CNN
+	1    6500 3400
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1119,7 +954,7 @@ U 1 1 5FD84B56
 P 6800 3250
 F 0 "SW59" H 6800 3535 50  0000 C CNN
 F 1 "SW_Push" H 6800 3444 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 6800 3450 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 6800 3450 50  0001 C CNN
 F 3 "~" H 6800 3450 50  0001 C CNN
 	1    6800 3250
 	1    0    0    -1  
@@ -1127,12 +962,12 @@ $EndComp
 $Comp
 L Device:D D59
 U 1 1 5FD84B5C
-P 6600 3400
-F 0 "D59" V 6646 3320 50  0000 R CNN
-F 1 "D" V 6555 3320 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 6600 3400 50  0001 C CNN
-F 3 "~" H 6600 3400 50  0001 C CNN
-	1    6600 3400
+P 7000 3400
+F 0 "D59" V 7046 3320 50  0000 R CNN
+F 1 "D" V 6955 3320 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 7000 3400 50  0001 C CNN
+F 3 "~" H 7000 3400 50  0001 C CNN
+	1    7000 3400
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1141,7 +976,7 @@ U 1 1 5FD84B62
 P 7300 3250
 F 0 "SW60" H 7300 3535 50  0000 C CNN
 F 1 "SW_Push" H 7300 3444 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 7300 3450 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 7300 3450 50  0001 C CNN
 F 3 "~" H 7300 3450 50  0001 C CNN
 	1    7300 3250
 	1    0    0    -1  
@@ -1149,12 +984,12 @@ $EndComp
 $Comp
 L Device:D D60
 U 1 1 5FD84B68
-P 7100 3400
-F 0 "D60" V 7146 3320 50  0000 R CNN
-F 1 "D" V 7055 3320 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 7100 3400 50  0001 C CNN
-F 3 "~" H 7100 3400 50  0001 C CNN
-	1    7100 3400
+P 7500 3400
+F 0 "D60" V 7546 3320 50  0000 R CNN
+F 1 "D" V 7455 3320 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 7500 3400 50  0001 C CNN
+F 3 "~" H 7500 3400 50  0001 C CNN
+	1    7500 3400
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1163,7 +998,7 @@ U 1 1 5FD84B6E
 P 7800 3250
 F 0 "SW61" H 7800 3535 50  0000 C CNN
 F 1 "SW_Push" H 7800 3444 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 7800 3450 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 7800 3450 50  0001 C CNN
 F 3 "~" H 7800 3450 50  0001 C CNN
 	1    7800 3250
 	1    0    0    -1  
@@ -1171,12 +1006,12 @@ $EndComp
 $Comp
 L Device:D D61
 U 1 1 5FD84B74
-P 7600 3400
-F 0 "D61" V 7646 3320 50  0000 R CNN
-F 1 "D" V 7555 3320 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 7600 3400 50  0001 C CNN
-F 3 "~" H 7600 3400 50  0001 C CNN
-	1    7600 3400
+P 8000 3400
+F 0 "D61" V 8046 3320 50  0000 R CNN
+F 1 "D" V 7955 3320 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 8000 3400 50  0001 C CNN
+F 3 "~" H 8000 3400 50  0001 C CNN
+	1    8000 3400
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1185,7 +1020,7 @@ U 1 1 5FD84B7A
 P 8300 3250
 F 0 "SW62" H 8300 3535 50  0000 C CNN
 F 1 "SW_Push" H 8300 3444 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 8300 3450 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 8300 3450 50  0001 C CNN
 F 3 "~" H 8300 3450 50  0001 C CNN
 	1    8300 3250
 	1    0    0    -1  
@@ -1193,12 +1028,12 @@ $EndComp
 $Comp
 L Device:D D62
 U 1 1 5FD84B80
-P 8100 3400
-F 0 "D62" V 8146 3320 50  0000 R CNN
-F 1 "D" V 8055 3320 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 8100 3400 50  0001 C CNN
-F 3 "~" H 8100 3400 50  0001 C CNN
-	1    8100 3400
+P 8500 3400
+F 0 "D62" V 8546 3320 50  0000 R CNN
+F 1 "D" V 8455 3320 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 8500 3400 50  0001 C CNN
+F 3 "~" H 8500 3400 50  0001 C CNN
+	1    8500 3400
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1207,7 +1042,7 @@ U 1 1 5FD84B86
 P 8800 3250
 F 0 "SW63" H 8800 3535 50  0000 C CNN
 F 1 "SW_Push" H 8800 3444 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 8800 3450 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 8800 3450 50  0001 C CNN
 F 3 "~" H 8800 3450 50  0001 C CNN
 	1    8800 3250
 	1    0    0    -1  
@@ -1215,12 +1050,12 @@ $EndComp
 $Comp
 L Device:D D63
 U 1 1 5FD84B8C
-P 8600 3400
-F 0 "D63" V 8646 3320 50  0000 R CNN
-F 1 "D" V 8555 3320 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 8600 3400 50  0001 C CNN
-F 3 "~" H 8600 3400 50  0001 C CNN
-	1    8600 3400
+P 9000 3400
+F 0 "D63" V 9046 3320 50  0000 R CNN
+F 1 "D" V 8955 3320 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 9000 3400 50  0001 C CNN
+F 3 "~" H 9000 3400 50  0001 C CNN
+	1    9000 3400
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1229,7 +1064,7 @@ U 1 1 5FD84B9E
 P 9800 3250
 F 0 "SW64" H 9800 3535 50  0000 C CNN
 F 1 "SW_Push" H 9800 3444 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 9800 3450 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_2.75u_Plate" H 9800 3450 50  0001 C CNN
 F 3 "~" H 9800 3450 50  0001 C CNN
 	1    9800 3250
 	1    0    0    -1  
@@ -1237,12 +1072,12 @@ $EndComp
 $Comp
 L Device:D D64
 U 1 1 5FD84BA4
-P 9600 3400
-F 0 "D64" V 9646 3320 50  0000 R CNN
-F 1 "D" V 9555 3320 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 9600 3400 50  0001 C CNN
-F 3 "~" H 9600 3400 50  0001 C CNN
-	1    9600 3400
+P 10000 3400
+F 0 "D64" V 10046 3320 50  0000 R CNN
+F 1 "D" V 9955 3320 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 10000 3400 50  0001 C CNN
+F 3 "~" H 10000 3400 50  0001 C CNN
+	1    10000 3400
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1251,7 +1086,7 @@ U 1 1 5FD84BAA
 P 10300 3250
 F 0 "SW65" H 10300 3535 50  0000 C CNN
 F 1 "SW_Push" H 10300 3444 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 10300 3450 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10300 3450 50  0001 C CNN
 F 3 "~" H 10300 3450 50  0001 C CNN
 	1    10300 3250
 	1    0    0    -1  
@@ -1259,12 +1094,12 @@ $EndComp
 $Comp
 L Device:D D65
 U 1 1 5FD84BB0
-P 10100 3400
-F 0 "D65" V 10146 3320 50  0000 R CNN
-F 1 "D" V 10055 3320 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 10100 3400 50  0001 C CNN
-F 3 "~" H 10100 3400 50  0001 C CNN
-	1    10100 3400
+P 10500 3400
+F 0 "D65" V 10546 3320 50  0000 R CNN
+F 1 "D" V 10455 3320 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 10500 3400 50  0001 C CNN
+F 3 "~" H 10500 3400 50  0001 C CNN
+	1    10500 3400
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1273,7 +1108,7 @@ U 1 1 5FDAB126
 P 3300 3850
 F 0 "SW66" H 3300 4135 50  0000 C CNN
 F 1 "SW_Push" H 3300 4044 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 3300 4050 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_Plate" H 3300 4050 50  0001 C CNN
 F 3 "~" H 3300 4050 50  0001 C CNN
 	1    3300 3850
 	1    0    0    -1  
@@ -1281,12 +1116,12 @@ $EndComp
 $Comp
 L Device:D D66
 U 1 1 5FDAB12C
-P 3100 4000
-F 0 "D66" V 3146 3920 50  0000 R CNN
-F 1 "D" V 3055 3920 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3100 4000 50  0001 C CNN
-F 3 "~" H 3100 4000 50  0001 C CNN
-	1    3100 4000
+P 3500 4000
+F 0 "D66" V 3546 3920 50  0000 R CNN
+F 1 "D" V 3455 3920 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3500 4000 50  0001 C CNN
+F 3 "~" H 3500 4000 50  0001 C CNN
+	1    3500 4000
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1295,7 +1130,7 @@ U 1 1 5FDAB132
 P 3800 3850
 F 0 "SW67" H 3800 4135 50  0000 C CNN
 F 1 "SW_Push" H 3800 4044 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 3800 4050 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_Plate" H 3800 4050 50  0001 C CNN
 F 3 "~" H 3800 4050 50  0001 C CNN
 	1    3800 3850
 	1    0    0    -1  
@@ -1303,12 +1138,12 @@ $EndComp
 $Comp
 L Device:D D67
 U 1 1 5FDAB138
-P 3600 4000
-F 0 "D67" V 3646 3920 50  0000 R CNN
-F 1 "D" V 3555 3920 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3600 4000 50  0001 C CNN
-F 3 "~" H 3600 4000 50  0001 C CNN
-	1    3600 4000
+P 4000 4000
+F 0 "D67" V 4046 3920 50  0000 R CNN
+F 1 "D" V 3955 3920 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4000 4000 50  0001 C CNN
+F 3 "~" H 4000 4000 50  0001 C CNN
+	1    4000 4000
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1317,7 +1152,7 @@ U 1 1 5FDAB13E
 P 4800 3850
 F 0 "SW68" H 4800 4135 50  0000 C CNN
 F 1 "SW_Push" H 4800 4044 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 4800 4050 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_Plate" H 4800 4050 50  0001 C CNN
 F 3 "~" H 4800 4050 50  0001 C CNN
 	1    4800 3850
 	1    0    0    -1  
@@ -1325,12 +1160,12 @@ $EndComp
 $Comp
 L Device:D D68
 U 1 1 5FDAB144
-P 4600 4000
-F 0 "D68" V 4646 3920 50  0000 R CNN
-F 1 "D" V 4555 3920 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4600 4000 50  0001 C CNN
-F 3 "~" H 4600 4000 50  0001 C CNN
-	1    4600 4000
+P 5000 4000
+F 0 "D68" V 5046 3920 50  0000 R CNN
+F 1 "D" V 4955 3920 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5000 4000 50  0001 C CNN
+F 3 "~" H 5000 4000 50  0001 C CNN
+	1    5000 4000
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1339,7 +1174,7 @@ U 1 1 5FDAB14A
 P 6800 3850
 F 0 "SW70" H 6800 4135 50  0000 C CNN
 F 1 "SW_Push" H 6800 4044 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 6800 4050 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_6.25u_Plate" H 6800 4050 50  0001 C CNN
 F 3 "~" H 6800 4050 50  0001 C CNN
 	1    6800 3850
 	1    0    0    -1  
@@ -1347,12 +1182,12 @@ $EndComp
 $Comp
 L Device:D D70
 U 1 1 5FDAB150
-P 6600 4000
-F 0 "D70" V 6646 3920 50  0000 R CNN
-F 1 "D" V 6555 3920 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 6600 4000 50  0001 C CNN
-F 3 "~" H 6600 4000 50  0001 C CNN
-	1    6600 4000
+P 7000 4000
+F 0 "D70" V 7046 3920 50  0000 R CNN
+F 1 "D" V 6955 3920 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 7000 4000 50  0001 C CNN
+F 3 "~" H 7000 4000 50  0001 C CNN
+	1    7000 4000
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1361,7 +1196,7 @@ U 1 1 5FDAB156
 P 8300 3850
 F 0 "SW71" H 8300 4135 50  0000 C CNN
 F 1 "SW_Push" H 8300 4044 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 8300 4050 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_Plate" H 8300 4050 50  0001 C CNN
 F 3 "~" H 8300 4050 50  0001 C CNN
 	1    8300 3850
 	1    0    0    -1  
@@ -1369,12 +1204,12 @@ $EndComp
 $Comp
 L Device:D D71
 U 1 1 5FDAB15C
-P 8100 4000
-F 0 "D71" V 8146 3920 50  0000 R CNN
-F 1 "D" V 8055 3920 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 8100 4000 50  0001 C CNN
-F 3 "~" H 8100 4000 50  0001 C CNN
-	1    8100 4000
+P 8500 4000
+F 0 "D71" V 8546 3920 50  0000 R CNN
+F 1 "D" V 8455 3920 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 8500 4000 50  0001 C CNN
+F 3 "~" H 8500 4000 50  0001 C CNN
+	1    8500 4000
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1383,7 +1218,7 @@ U 1 1 5FDAB162
 P 8800 3850
 F 0 "SW72" H 8800 4135 50  0000 C CNN
 F 1 "SW_Push" H 8800 4044 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 8800 4050 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_Plate" H 8800 4050 50  0001 C CNN
 F 3 "~" H 8800 4050 50  0001 C CNN
 	1    8800 3850
 	1    0    0    -1  
@@ -1391,12 +1226,12 @@ $EndComp
 $Comp
 L Device:D D72
 U 1 1 5FDAB168
-P 8600 4000
-F 0 "D72" V 8646 3920 50  0000 R CNN
-F 1 "D" V 8555 3920 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 8600 4000 50  0001 C CNN
-F 3 "~" H 8600 4000 50  0001 C CNN
-	1    8600 4000
+P 9000 4000
+F 0 "D72" V 9046 3920 50  0000 R CNN
+F 1 "D" V 8955 3920 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 9000 4000 50  0001 C CNN
+F 3 "~" H 9000 4000 50  0001 C CNN
+	1    9000 4000
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1405,7 +1240,7 @@ U 1 1 5FDAB17A
 P 9800 3850
 F 0 "SW73" H 9800 4135 50  0000 C CNN
 F 1 "SW_Push" H 9800 4044 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 9800 4050 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 9800 4050 50  0001 C CNN
 F 3 "~" H 9800 4050 50  0001 C CNN
 	1    9800 3850
 	1    0    0    -1  
@@ -1413,12 +1248,12 @@ $EndComp
 $Comp
 L Device:D D73
 U 1 1 5FDAB180
-P 9600 4000
-F 0 "D73" V 9646 3920 50  0000 R CNN
-F 1 "D" V 9555 3920 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 9600 4000 50  0001 C CNN
-F 3 "~" H 9600 4000 50  0001 C CNN
-	1    9600 4000
+P 10000 4000
+F 0 "D73" V 10046 3920 50  0000 R CNN
+F 1 "D" V 9955 3920 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 10000 4000 50  0001 C CNN
+F 3 "~" H 10000 4000 50  0001 C CNN
+	1    10000 4000
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1427,7 +1262,7 @@ U 1 1 5FDAB186
 P 10300 3850
 F 0 "SW74" H 10300 4135 50  0000 C CNN
 F 1 "SW_Push" H 10300 4044 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 10300 4050 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10300 4050 50  0001 C CNN
 F 3 "~" H 10300 4050 50  0001 C CNN
 	1    10300 3850
 	1    0    0    -1  
@@ -1435,318 +1270,31 @@ $EndComp
 $Comp
 L Device:D D74
 U 1 1 5FDAB18C
-P 10100 4000
-F 0 "D74" V 10146 3920 50  0000 R CNN
-F 1 "D" V 10055 3920 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 10100 4000 50  0001 C CNN
-F 3 "~" H 10100 4000 50  0001 C CNN
-	1    10100 4000
+P 10500 4000
+F 0 "D74" V 10546 3920 50  0000 R CNN
+F 1 "D" V 10455 3920 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 10500 4000 50  0001 C CNN
+F 3 "~" H 10500 4000 50  0001 C CNN
+	1    10500 4000
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	3100 1750 3600 1750
-Connection ~ 3600 1750
-Wire Wire Line
-	3600 1750 4100 1750
-Connection ~ 4100 1750
-Wire Wire Line
-	4100 1750 4600 1750
-Connection ~ 4600 1750
-Wire Wire Line
-	4600 1750 5100 1750
-Connection ~ 5100 1750
-Wire Wire Line
-	5100 1750 5600 1750
-Connection ~ 5600 1750
-Wire Wire Line
-	5600 1750 6100 1750
-Connection ~ 6100 1750
-Wire Wire Line
-	6100 1750 6600 1750
-Connection ~ 6600 1750
-Wire Wire Line
-	6600 1750 7100 1750
-Connection ~ 7100 1750
-Wire Wire Line
-	7100 1750 7600 1750
-Connection ~ 7600 1750
-Wire Wire Line
-	7600 1750 8100 1750
-Connection ~ 8100 1750
-Wire Wire Line
-	8100 1750 8600 1750
-Connection ~ 8600 1750
-Wire Wire Line
-	8600 1750 9100 1750
-Connection ~ 9100 1750
-Wire Wire Line
-	9100 1750 9600 1750
-Connection ~ 9600 1750
-Wire Wire Line
-	9600 1750 10100 1750
-Wire Wire Line
-	10100 2350 9600 2350
-Connection ~ 3600 2350
-Wire Wire Line
-	3600 2350 3100 2350
-Connection ~ 4100 2350
-Wire Wire Line
-	4100 2350 3600 2350
-Connection ~ 4600 2350
-Wire Wire Line
-	4600 2350 4100 2350
-Connection ~ 5100 2350
-Wire Wire Line
-	5100 2350 4600 2350
-Connection ~ 5600 2350
-Wire Wire Line
-	5600 2350 5100 2350
-Connection ~ 6100 2350
-Wire Wire Line
-	6100 2350 5600 2350
-Connection ~ 6600 2350
-Wire Wire Line
-	6600 2350 6100 2350
-Connection ~ 7100 2350
-Wire Wire Line
-	7100 2350 6600 2350
-Connection ~ 7600 2350
-Wire Wire Line
-	7600 2350 7100 2350
-Connection ~ 8100 2350
-Wire Wire Line
-	8100 2350 7600 2350
-Connection ~ 8600 2350
-Wire Wire Line
-	8600 2350 8100 2350
-Connection ~ 9100 2350
-Wire Wire Line
-	9100 2350 8600 2350
-Connection ~ 9600 2350
-Wire Wire Line
-	9600 2350 9100 2350
-Wire Wire Line
-	3100 2950 3600 2950
-Connection ~ 3600 2950
-Wire Wire Line
-	3600 2950 4100 2950
-Connection ~ 4100 2950
-Wire Wire Line
-	4100 2950 4600 2950
-Connection ~ 4600 2950
-Wire Wire Line
-	4600 2950 5100 2950
-Connection ~ 5100 2950
-Wire Wire Line
-	5100 2950 5600 2950
-Connection ~ 5600 2950
-Wire Wire Line
-	5600 2950 6100 2950
-Connection ~ 6100 2950
-Wire Wire Line
-	6100 2950 6600 2950
-Connection ~ 6600 2950
-Wire Wire Line
-	6600 2950 7100 2950
-Connection ~ 7100 2950
-Wire Wire Line
-	7100 2950 7600 2950
-Connection ~ 7600 2950
-Wire Wire Line
-	7600 2950 8100 2950
-Connection ~ 8100 2950
-Wire Wire Line
-	8100 2950 8600 2950
-Connection ~ 8600 2950
-Wire Wire Line
-	10100 3550 9600 3550
-Connection ~ 4100 3550
-Connection ~ 4600 3550
-Wire Wire Line
-	4600 3550 4100 3550
-Connection ~ 5100 3550
-Wire Wire Line
-	5100 3550 4600 3550
-Connection ~ 5600 3550
-Wire Wire Line
-	5600 3550 5100 3550
-Connection ~ 6100 3550
-Wire Wire Line
-	6100 3550 5600 3550
-Connection ~ 6600 3550
-Wire Wire Line
-	6600 3550 6100 3550
-Connection ~ 7100 3550
-Wire Wire Line
-	7100 3550 6600 3550
-Connection ~ 7600 3550
-Wire Wire Line
-	7600 3550 7100 3550
-Connection ~ 8100 3550
-Wire Wire Line
-	8100 3550 7600 3550
-Connection ~ 9600 3550
-Wire Wire Line
-	10100 4150 9600 4150
-Connection ~ 3600 4150
-Wire Wire Line
-	3600 4150 3100 4150
-Connection ~ 9600 4150
-Wire Wire Line
-	10500 1450 10500 2050
-Connection ~ 10500 2050
-Wire Wire Line
-	10500 2050 10500 2650
-Connection ~ 10500 2650
-Wire Wire Line
-	10500 2650 10500 3250
-Connection ~ 10500 3250
-Wire Wire Line
-	10500 3250 10500 3850
-Wire Wire Line
-	10000 1450 10000 2050
-Connection ~ 10000 2050
-Wire Wire Line
-	10000 2050 10000 2650
-Connection ~ 10000 3250
-Wire Wire Line
-	10000 3250 10000 3850
-Wire Wire Line
-	9500 1450 9500 2050
-Wire Wire Line
-	9000 1450 9000 2050
-Connection ~ 9000 2050
-Wire Wire Line
-	9000 2050 9000 2650
-Connection ~ 9000 2650
-Wire Wire Line
-	8500 1450 8500 2050
-Connection ~ 8500 2050
-Wire Wire Line
-	8500 2050 8500 2650
-Connection ~ 8500 2650
-Wire Wire Line
-	9000 2650 9000 3250
-Wire Wire Line
-	8000 1450 8000 2050
-Connection ~ 8000 2050
-Wire Wire Line
-	8000 2050 8000 2650
-Connection ~ 8000 2650
-Wire Wire Line
-	8500 2650 8500 3250
-Wire Wire Line
-	7500 1450 7500 2050
-Connection ~ 7500 2050
-Wire Wire Line
-	7500 2050 7500 2650
-Connection ~ 7500 2650
-Wire Wire Line
-	8000 2650 8000 3250
-Wire Wire Line
-	9000 3250 9000 3850
-Wire Wire Line
-	7000 1450 7000 2050
-Connection ~ 7000 2050
-Wire Wire Line
-	7000 2050 7000 2650
-Connection ~ 7000 2650
-Wire Wire Line
-	7500 2650 7500 3250
-Wire Wire Line
-	6500 1450 6500 2050
-Connection ~ 6500 2050
-Wire Wire Line
-	6500 2050 6500 2650
-Connection ~ 6500 2650
-Wire Wire Line
-	7000 2650 7000 3250
-Wire Wire Line
-	6000 1450 6000 2050
-Connection ~ 6000 2050
-Wire Wire Line
-	6000 2050 6000 2650
-Connection ~ 6000 2650
-Wire Wire Line
-	6500 2650 6500 3250
-Wire Wire Line
-	7000 3250 7000 3850
-Wire Wire Line
-	5500 1450 5500 2050
-Connection ~ 5500 2050
-Wire Wire Line
-	5500 2050 5500 2650
-Connection ~ 5500 2650
-Wire Wire Line
-	6000 2650 6000 3250
-Wire Wire Line
-	5000 1450 5000 2050
-Connection ~ 5000 2050
-Wire Wire Line
-	5000 2050 5000 2650
-Connection ~ 5000 2650
-Wire Wire Line
-	5500 2650 5500 3250
-Wire Wire Line
-	4500 1450 4500 2050
-Connection ~ 4500 2050
-Wire Wire Line
-	4500 2050 4500 2650
-Connection ~ 4500 2650
-Wire Wire Line
-	5000 2650 5000 3250
-Wire Wire Line
-	5500 3250 5500 3850
-Wire Wire Line
-	4000 1450 4000 2050
-Connection ~ 4000 2050
-Wire Wire Line
-	4000 2050 4000 2650
-Connection ~ 4000 2650
-Wire Wire Line
-	4500 2650 4500 3250
-Wire Wire Line
-	3500 1450 3500 2050
-Connection ~ 3500 2050
-Wire Wire Line
-	3500 2050 3500 2650
-Text GLabel 3500 850  1    50   Input ~ 0
+Text GLabel 3100 850  1    50   Input ~ 0
 col0
-Text GLabel 4000 850  1    50   Input ~ 0
+Text GLabel 3600 850  1    50   Input ~ 0
 col1
-Text GLabel 4500 850  1    50   Input ~ 0
+Text GLabel 4100 850  1    50   Input ~ 0
 col2
-Text GLabel 5000 850  1    50   Input ~ 0
+Text GLabel 4600 850  1    50   Input ~ 0
 col3
-Text GLabel 5500 850  1    50   Input ~ 0
+Text GLabel 5100 850  1    50   Input ~ 0
 col4
-Text GLabel 6000 1450 1    50   Input ~ 0
-col5
-Text GLabel 6500 1450 1    50   Input ~ 0
-col6
-Text GLabel 7000 1450 1    50   Input ~ 0
-col7
-Text GLabel 7500 1450 1    50   Input ~ 0
-col8
-Text GLabel 8000 1450 1    50   Input ~ 0
-col9
-Text GLabel 8500 1450 1    50   Input ~ 0
-col10
-Text GLabel 9000 1450 1    50   Input ~ 0
-col11
-Text GLabel 9500 1450 1    50   Input ~ 0
-col12
-Text GLabel 10000 1450 1    50   Input ~ 0
-col13
-Text GLabel 10500 1450 1    50   Input ~ 0
-col14
-Text GLabel 3100 1750 0    50   Input ~ 0
+Text GLabel 3000 1750 0    50   Input ~ 0
 row1
-Text GLabel 3100 2350 0    50   Input ~ 0
+Text GLabel 3000 2350 0    50   Input ~ 0
 row2
-Text GLabel 3100 2950 0    50   Input ~ 0
+Text GLabel 3000 2950 0    50   Input ~ 0
 row3
-Text GLabel 3100 3550 0    50   Input ~ 0
+Text GLabel 3000 3550 0    50   Input ~ 0
 row4
 $Comp
 L MCU_Microchip_ATmega:ATmega32A-PU U1
@@ -2082,19 +1630,6 @@ F 3 "" H 4600 6650 50  0001 C CNN
 	1    4600 6650
 	1    0    0    -1  
 $EndComp
-Connection ~ 10000 2650
-Wire Wire Line
-	10000 2650 10000 3250
-Connection ~ 9600 2950
-Wire Wire Line
-	9600 2950 10100 2950
-Wire Wire Line
-	8600 2950 9600 2950
-Connection ~ 8600 4150
-Connection ~ 8100 4150
-Wire Wire Line
-	8100 4150 8600 4150
-Connection ~ 9000 3250
 $Comp
 L Device:D_Zener_Small D76
 U 1 1 60149C80
@@ -2178,32 +1713,18 @@ U 1 1 5FE44BE9
 P 10800 1450
 F 0 "SW21" H 10800 1735 50  0000 C CNN
 F 1 "SW_Push" H 10800 1644 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 10800 1650 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10800 1650 50  0001 C CNN
 F 3 "~" H 10800 1650 50  0001 C CNN
 	1    10800 1450
 	1    0    0    -1  
 $EndComp
-$Comp
-L Device:D D21
-U 1 1 5FE4ED7D
-P 10600 1600
-F 0 "D21" V 10646 1520 50  0000 R CNN
-F 1 "D" V 10555 1520 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 10600 1600 50  0001 C CNN
-F 3 "~" H 10600 1600 50  0001 C CNN
-	1    10600 1600
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	10600 1750 10100 1750
-Connection ~ 10100 1750
 $Comp
 L Switch:SW_Push SW37
 U 1 1 5FE7E04E
 P 10800 2050
 F 0 "SW37" H 10800 2335 50  0000 C CNN
 F 1 "SW_Push" H 10800 2244 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 10800 2250 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10800 2250 50  0001 C CNN
 F 3 "~" H 10800 2250 50  0001 C CNN
 	1    10800 2050
 	1    0    0    -1  
@@ -2211,12 +1732,12 @@ $EndComp
 $Comp
 L Device:D D37
 U 1 1 5FE7E054
-P 10600 2200
-F 0 "D37" V 10646 2120 50  0000 R CNN
-F 1 "D" V 10555 2120 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 10600 2200 50  0001 C CNN
-F 3 "~" H 10600 2200 50  0001 C CNN
-	1    10600 2200
+P 11000 2200
+F 0 "D37" V 11046 2120 50  0000 R CNN
+F 1 "D" V 10955 2120 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 11000 2200 50  0001 C CNN
+F 3 "~" H 11000 2200 50  0001 C CNN
+	1    11000 2200
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -2225,7 +1746,7 @@ U 1 1 5FE848C7
 P 10800 2650
 F 0 "SW52" H 10800 2935 50  0000 C CNN
 F 1 "SW_Push" H 10800 2844 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 10800 2850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10800 2850 50  0001 C CNN
 F 3 "~" H 10800 2850 50  0001 C CNN
 	1    10800 2650
 	1    0    0    -1  
@@ -2233,12 +1754,12 @@ $EndComp
 $Comp
 L Device:D D52
 U 1 1 5FE848CD
-P 10600 2800
-F 0 "D52" V 10646 2720 50  0000 R CNN
-F 1 "D" V 10555 2720 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 10600 2800 50  0001 C CNN
-F 3 "~" H 10600 2800 50  0001 C CNN
-	1    10600 2800
+P 11000 2800
+F 0 "D52" V 11046 2720 50  0000 R CNN
+F 1 "D" V 10955 2720 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 11000 2800 50  0001 C CNN
+F 3 "~" H 11000 2800 50  0001 C CNN
+	1    11000 2800
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -2247,7 +1768,7 @@ U 1 1 5FE93A55
 P 10800 3850
 F 0 "SW75" H 10800 4135 50  0000 C CNN
 F 1 "SW_Push" H 10800 4044 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 10800 4050 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10800 4050 50  0001 C CNN
 F 3 "~" H 10800 4050 50  0001 C CNN
 	1    10800 3850
 	1    0    0    -1  
@@ -2255,12 +1776,12 @@ $EndComp
 $Comp
 L Device:D D75
 U 1 1 5FE93A5B
-P 10600 4000
-F 0 "D75" V 10646 3920 50  0000 R CNN
-F 1 "D" V 10555 3920 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 10600 4000 50  0001 C CNN
-F 3 "~" H 10600 4000 50  0001 C CNN
-	1    10600 4000
+P 11000 4000
+F 0 "D75" V 11046 3920 50  0000 R CNN
+F 1 "D" V 10955 3920 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 11000 4000 50  0001 C CNN
+F 3 "~" H 11000 4000 50  0001 C CNN
+	1    11000 4000
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -2269,7 +1790,7 @@ U 1 1 5FEABDE2
 P 5300 3850
 F 0 "SW69" H 5300 4135 50  0000 C CNN
 F 1 "SW_Push" H 5300 4044 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 5300 4050 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_Plate" H 5300 4050 50  0001 C CNN
 F 3 "~" H 5300 4050 50  0001 C CNN
 	1    5300 3850
 	1    0    0    -1  
@@ -2277,62 +1798,17 @@ $EndComp
 $Comp
 L Device:D D69
 U 1 1 5FEAEAEA
-P 5100 4000
-F 0 "D69" V 5146 3920 50  0000 R CNN
-F 1 "D" V 5055 3920 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5100 4000 50  0001 C CNN
-F 3 "~" H 5100 4000 50  0001 C CNN
-	1    5100 4000
+P 5500 4000
+F 0 "D69" V 5546 3920 50  0000 R CNN
+F 1 "D" V 5455 3920 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5500 4000 50  0001 C CNN
+F 3 "~" H 5500 4000 50  0001 C CNN
+	1    5500 4000
 	0    -1   -1   0   
 $EndComp
-Connection ~ 5100 4150
-Connection ~ 4600 4150
-Wire Wire Line
-	4600 4150 5100 4150
-Wire Wire Line
-	3600 4150 4600 4150
-Connection ~ 5500 3250
-Connection ~ 6600 4150
-Wire Wire Line
-	6600 4150 8100 4150
-Wire Wire Line
-	5100 4150 6600 4150
-Wire Wire Line
-	5000 3250 5000 3850
-Wire Wire Line
-	11000 1450 11000 2050
-Connection ~ 11000 2050
-Wire Wire Line
-	11000 2050 11000 2650
-Connection ~ 11000 2650
-Wire Wire Line
-	11000 2650 11000 3850
-Wire Wire Line
-	10600 2350 10100 2350
-Connection ~ 10100 2350
-Wire Wire Line
-	10600 2950 10100 2950
-Connection ~ 10100 2950
-Wire Wire Line
-	8600 4150 9600 4150
-Text GLabel 11000 1450 1    50   Input ~ 0
-col15
-Wire Wire Line
-	8100 3550 8600 3550
 Wire Wire Line
 	1150 6400 1250 6400
 Connection ~ 1250 6400
-Connection ~ 8600 3550
-Wire Wire Line
-	8600 3550 9600 3550
-Connection ~ 5000 3250
-Connection ~ 7000 3250
-Wire Wire Line
-	3500 3850 3500 3250
-Connection ~ 3500 2650
-Wire Wire Line
-	10100 4150 10600 4150
-Connection ~ 10100 4150
 Text GLabel 2400 4300 2    50   Input ~ 0
 col15
 $Comp
@@ -2341,21 +1817,10 @@ U 1 1 5FE9C53C
 P 3300 850
 F 0 "SW1" H 3300 1135 50  0000 C CNN
 F 1 "SW_Push" H 3300 1044 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 3300 1050 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 3300 1050 50  0001 C CNN
 F 3 "~" H 3300 1050 50  0001 C CNN
 	1    3300 850 
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D1
-U 1 1 5FE9C542
-P 3100 1000
-F 0 "D1" V 3146 920 50  0000 R CNN
-F 1 "D" V 3055 920 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3100 1000 50  0001 C CNN
-F 3 "~" H 3100 1000 50  0001 C CNN
-	1    3100 1000
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW2
@@ -2363,21 +1828,10 @@ U 1 1 5FEA98CC
 P 3800 850
 F 0 "SW2" H 3800 1135 50  0000 C CNN
 F 1 "SW_Push" H 3800 1044 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 3800 1050 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 3800 1050 50  0001 C CNN
 F 3 "~" H 3800 1050 50  0001 C CNN
 	1    3800 850 
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D2
-U 1 1 5FEA98D2
-P 3600 1000
-F 0 "D2" V 3646 920 50  0000 R CNN
-F 1 "D" V 3555 920 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3600 1000 50  0001 C CNN
-F 3 "~" H 3600 1000 50  0001 C CNN
-	1    3600 1000
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW3
@@ -2385,21 +1839,10 @@ U 1 1 5FEB76E6
 P 4300 850
 F 0 "SW3" H 4300 1135 50  0000 C CNN
 F 1 "SW_Push" H 4300 1044 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 4300 1050 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 4300 1050 50  0001 C CNN
 F 3 "~" H 4300 1050 50  0001 C CNN
 	1    4300 850 
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D3
-U 1 1 5FEB76EC
-P 4100 1000
-F 0 "D3" V 4146 920 50  0000 R CNN
-F 1 "D" V 4055 920 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4100 1000 50  0001 C CNN
-F 3 "~" H 4100 1000 50  0001 C CNN
-	1    4100 1000
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW4
@@ -2407,21 +1850,10 @@ U 1 1 5FEB76F2
 P 4800 850
 F 0 "SW4" H 4800 1135 50  0000 C CNN
 F 1 "SW_Push" H 4800 1044 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 4800 1050 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 4800 1050 50  0001 C CNN
 F 3 "~" H 4800 1050 50  0001 C CNN
 	1    4800 850 
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D D4
-U 1 1 5FEB76F8
-P 4600 1000
-F 0 "D4" V 4646 920 50  0000 R CNN
-F 1 "D" V 4555 920 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4600 1000 50  0001 C CNN
-F 3 "~" H 4600 1000 50  0001 C CNN
-	1    4600 1000
-	0    -1   -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW5
@@ -2429,66 +1861,19 @@ U 1 1 5FEC583A
 P 5300 850
 F 0 "SW5" H 5300 1135 50  0000 C CNN
 F 1 "SW_Push" H 5300 1044 50  0000 C CNN
-F 2 "keyboard-parts:CherryMX_Kailh_Socket" H 5300 1050 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 5300 1050 50  0001 C CNN
 F 3 "~" H 5300 1050 50  0001 C CNN
 	1    5300 850 
 	1    0    0    -1  
 $EndComp
-$Comp
-L Device:D D5
-U 1 1 5FEC5840
-P 5100 1000
-F 0 "D5" V 5146 920 50  0000 R CNN
-F 1 "D" V 5055 920 50  0000 R CNN
-F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5100 1000 50  0001 C CNN
-F 3 "~" H 5100 1000 50  0001 C CNN
-	1    5100 1000
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3100 1150 3600 1150
-Connection ~ 3600 1150
-Wire Wire Line
-	3600 1150 4100 1150
-Connection ~ 4100 1150
-Wire Wire Line
-	4100 1150 4600 1150
-Connection ~ 4600 1150
-Wire Wire Line
-	4600 1150 5100 1150
-Text GLabel 3100 4150 0    50   Input ~ 0
+Text GLabel 3000 4150 0    50   Input ~ 0
 row5
-Wire Wire Line
-	3500 850  3500 1450
-Connection ~ 3500 1450
-Wire Wire Line
-	4000 850  4000 1450
-Connection ~ 4000 1450
-Wire Wire Line
-	4500 850  4500 1450
-Connection ~ 4500 1450
-Wire Wire Line
-	5000 850  5000 1450
-Connection ~ 5000 1450
-Wire Wire Line
-	5500 850  5500 1450
-Connection ~ 5500 1450
 Text Notes 1100 5400 0    118  ~ 24
 Micro USB
 Text Notes 2900 5400 0    118  ~ 24
 Power
 Text Notes 4300 5400 0    118  ~ 24
 Reset/Boot
-Connection ~ 3500 3250
-Wire Wire Line
-	3500 3250 3500 2650
-Wire Wire Line
-	3100 3550 4100 3550
-Wire Wire Line
-	4000 2650 4000 3850
-Wire Wire Line
-	8500 3250 8500 3850
-Connection ~ 8500 3250
 $Comp
 L Mechanical:MountingHole_Pad H1
 U 1 1 5FEA9D6F
@@ -2621,64 +2006,9 @@ F 3 "" H 4950 4650 50  0001 C CNN
 	1    4950 4650
 	1    0    0    -1  
 $EndComp
-$Comp
-L Mechanical:MountingHole_Pad H7
-U 1 1 5FECE832
-P 5200 4550
-F 0 "H7" H 5300 4599 50  0000 L CNN
-F 1 "MountingHole_Pad" H 5300 4508 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad_TopBottom" H 5200 4550 50  0001 C CNN
-F 3 "~" H 5200 4550 50  0001 C CNN
-	1    5200 4550
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR028
-U 1 1 5FECE838
-P 5200 4650
-F 0 "#PWR028" H 5200 4400 50  0001 C CNN
-F 1 "GND" H 5205 4477 50  0000 C CNN
-F 2 "" H 5200 4650 50  0001 C CNN
-F 3 "" H 5200 4650 50  0001 C CNN
-	1    5200 4650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole_Pad H8
-U 1 1 5FECE83E
-P 5450 4550
-F 0 "H8" H 5550 4599 50  0000 L CNN
-F 1 "MountingHole_Pad" H 5550 4508 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad_TopBottom" H 5450 4550 50  0001 C CNN
-F 3 "~" H 5450 4550 50  0001 C CNN
-	1    5450 4550
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR029
-U 1 1 5FECE844
-P 5450 4650
-F 0 "#PWR029" H 5450 4400 50  0001 C CNN
-F 1 "GND" H 5455 4477 50  0000 C CNN
-F 2 "" H 5450 4650 50  0001 C CNN
-F 3 "" H 5450 4650 50  0001 C CNN
-	1    5450 4650
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR030
-U 1 1 5FF5DFA5
-P 5700 4650
-F 0 "#PWR030" H 5700 4400 50  0001 C CNN
-F 1 "GND" H 5705 4477 50  0000 C CNN
-F 2 "" H 5700 4650 50  0001 C CNN
-F 3 "" H 5700 4650 50  0001 C CNN
-	1    5700 4650
-	1    0    0    -1  
-$EndComp
 NoConn ~ 2400 3500
 NoConn ~ 2400 4400
-Text GLabel 3100 1150 0    50   Input ~ 0
+Text GLabel 3000 1150 0    50   Input ~ 0
 row0
 $Comp
 L Device:R_Small R4
@@ -2707,63 +2037,641 @@ F 3 "" H 2150 6450 50  0001 C CNN
 $EndComp
 Text GLabel 2400 3000 2    50   Output ~ 0
 row5
-$Comp
-L Mechanical:MountingHole_Pad H9
-U 1 1 5FF5DF9F
-P 5700 4550
-F 0 "H9" H 5800 4599 50  0000 L CNN
-F 1 "MountingHole_Pad" H 5800 4508 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad_TopBottom" H 5700 4550 50  0001 C CNN
-F 3 "~" H 5700 4550 50  0001 C CNN
-	1    5700 4550
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR08
-U 1 1 609FA282
-P 5950 4650
-F 0 "#PWR08" H 5950 4400 50  0001 C CNN
-F 1 "GND" H 5955 4477 50  0000 C CNN
-F 2 "" H 5950 4650 50  0001 C CNN
-F 3 "" H 5950 4650 50  0001 C CNN
-	1    5950 4650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole_Pad H10
-U 1 1 609FA288
-P 5950 4550
-F 0 "H10" H 6050 4599 50  0000 L CNN
-F 1 "MountingHole_Pad" H 6050 4508 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad_TopBottom" H 5950 4550 50  0001 C CNN
-F 3 "~" H 5950 4550 50  0001 C CNN
-	1    5950 4550
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR010
-U 1 1 60A01C8B
-P 6200 4650
-F 0 "#PWR010" H 6200 4400 50  0001 C CNN
-F 1 "GND" H 6205 4477 50  0000 C CNN
-F 2 "" H 6200 4650 50  0001 C CNN
-F 3 "" H 6200 4650 50  0001 C CNN
-	1    6200 4650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole_Pad H11
-U 1 1 60A01C91
-P 6200 4550
-F 0 "H11" H 6300 4599 50  0000 L CNN
-F 1 "MountingHole_Pad" H 6300 4508 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad_TopBottom" H 6200 4550 50  0001 C CNN
-F 3 "~" H 6200 4550 50  0001 C CNN
-	1    6200 4550
-	1    0    0    -1  
-$EndComp
 NoConn ~ 2400 1500
 NoConn ~ 2400 1600
 NoConn ~ 2400 2800
 NoConn ~ 2400 2900
+$Comp
+L Device:D D21
+U 1 1 5FE4ED7D
+P 11000 1600
+F 0 "D21" V 11046 1520 50  0000 R CNN
+F 1 "D" V 10955 1520 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 11000 1600 50  0001 C CNN
+F 3 "~" H 11000 1600 50  0001 C CNN
+	1    11000 1600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9100 1450 9100 2050
+$Comp
+L Device:D D20
+U 1 1 5FD5D964
+P 10500 1600
+F 0 "D20" V 10546 1520 50  0000 R CNN
+F 1 "D" V 10455 1520 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 10500 1600 50  0001 C CNN
+F 3 "~" H 10500 1600 50  0001 C CNN
+	1    10500 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D19
+U 1 1 5FD5D958
+P 10000 1600
+F 0 "D19" V 10046 1520 50  0000 R CNN
+F 1 "D" V 9955 1520 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 10000 1600 50  0001 C CNN
+F 3 "~" H 10000 1600 50  0001 C CNN
+	1    10000 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D18
+U 1 1 5FD5D94C
+P 9500 1600
+F 0 "D18" V 9546 1520 50  0000 R CNN
+F 1 "D" V 9455 1520 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 9500 1600 50  0001 C CNN
+F 3 "~" H 9500 1600 50  0001 C CNN
+	1    9500 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D17
+U 1 1 5FD5D940
+P 9000 1600
+F 0 "D17" V 9046 1520 50  0000 R CNN
+F 1 "D" V 8955 1520 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 9000 1600 50  0001 C CNN
+F 3 "~" H 9000 1600 50  0001 C CNN
+	1    9000 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D16
+U 1 1 5FD5D934
+P 8500 1600
+F 0 "D16" V 8546 1520 50  0000 R CNN
+F 1 "D" V 8455 1520 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 8500 1600 50  0001 C CNN
+F 3 "~" H 8500 1600 50  0001 C CNN
+	1    8500 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D15
+U 1 1 5FD5D928
+P 8000 1600
+F 0 "D15" V 8046 1520 50  0000 R CNN
+F 1 "D" V 7955 1520 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 8000 1600 50  0001 C CNN
+F 3 "~" H 8000 1600 50  0001 C CNN
+	1    8000 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D14
+U 1 1 5FD5D91C
+P 7500 1600
+F 0 "D14" V 7546 1520 50  0000 R CNN
+F 1 "D" V 7455 1520 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 7500 1600 50  0001 C CNN
+F 3 "~" H 7500 1600 50  0001 C CNN
+	1    7500 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D13
+U 1 1 5FD56A02
+P 7000 1600
+F 0 "D13" V 7046 1520 50  0000 R CNN
+F 1 "D" V 6955 1520 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 7000 1600 50  0001 C CNN
+F 3 "~" H 7000 1600 50  0001 C CNN
+	1    7000 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D12
+U 1 1 5FD569F6
+P 6500 1600
+F 0 "D12" V 6546 1520 50  0000 R CNN
+F 1 "D" V 6455 1520 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 6500 1600 50  0001 C CNN
+F 3 "~" H 6500 1600 50  0001 C CNN
+	1    6500 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D11
+U 1 1 5FD569EA
+P 6000 1600
+F 0 "D11" V 6046 1520 50  0000 R CNN
+F 1 "D" V 5955 1520 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 6000 1600 50  0001 C CNN
+F 3 "~" H 6000 1600 50  0001 C CNN
+	1    6000 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D10
+U 1 1 5FD569DE
+P 5500 1600
+F 0 "D10" V 5546 1520 50  0000 R CNN
+F 1 "D" V 5455 1520 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5500 1600 50  0001 C CNN
+F 3 "~" H 5500 1600 50  0001 C CNN
+	1    5500 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D9
+U 1 1 5FD5478C
+P 5000 1600
+F 0 "D9" V 5046 1520 50  0000 R CNN
+F 1 "D" V 4955 1520 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5000 1600 50  0001 C CNN
+F 3 "~" H 5000 1600 50  0001 C CNN
+	1    5000 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D8
+U 1 1 5FD54780
+P 4500 1600
+F 0 "D8" V 4546 1520 50  0000 R CNN
+F 1 "D" V 4455 1520 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4500 1600 50  0001 C CNN
+F 3 "~" H 4500 1600 50  0001 C CNN
+	1    4500 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D7
+U 1 1 5FD53552
+P 4000 1600
+F 0 "D7" V 4046 1520 50  0000 R CNN
+F 1 "D" V 3955 1520 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4000 1600 50  0001 C CNN
+F 3 "~" H 4000 1600 50  0001 C CNN
+	1    4000 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D6
+U 1 1 5FD528A6
+P 3500 1600
+F 0 "D6" V 3546 1520 50  0000 R CNN
+F 1 "D" V 3455 1520 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3500 1600 50  0001 C CNN
+F 3 "~" H 3500 1600 50  0001 C CNN
+	1    3500 1600
+	0    -1   -1   0   
+$EndComp
+Text GLabel 10600 1450 1    50   Input ~ 0
+col15
+Text GLabel 10100 1450 1    50   Input ~ 0
+col14
+Text GLabel 9600 1450 1    50   Input ~ 0
+col13
+Text GLabel 9100 1450 1    50   Input ~ 0
+col12
+Text GLabel 8600 1450 1    50   Input ~ 0
+col11
+Text GLabel 8100 1450 1    50   Input ~ 0
+col10
+Text GLabel 7600 1450 1    50   Input ~ 0
+col9
+Text GLabel 7100 1450 1    50   Input ~ 0
+col8
+Text GLabel 6600 1450 1    50   Input ~ 0
+col7
+Text GLabel 6100 1450 1    50   Input ~ 0
+col6
+Text GLabel 5600 1450 1    50   Input ~ 0
+col5
+$Comp
+L Device:D D5
+U 1 1 5FEC5840
+P 5500 1000
+F 0 "D5" V 5546 920 50  0000 R CNN
+F 1 "D" V 5455 920 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5500 1000 50  0001 C CNN
+F 3 "~" H 5500 1000 50  0001 C CNN
+	1    5500 1000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D4
+U 1 1 5FEB76F8
+P 5000 1000
+F 0 "D4" V 5046 920 50  0000 R CNN
+F 1 "D" V 4955 920 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 5000 1000 50  0001 C CNN
+F 3 "~" H 5000 1000 50  0001 C CNN
+	1    5000 1000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D3
+U 1 1 5FEB76EC
+P 4500 1000
+F 0 "D3" V 4546 920 50  0000 R CNN
+F 1 "D" V 4455 920 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4500 1000 50  0001 C CNN
+F 3 "~" H 4500 1000 50  0001 C CNN
+	1    4500 1000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D2
+U 1 1 5FEA98D2
+P 4000 1000
+F 0 "D2" V 4046 920 50  0000 R CNN
+F 1 "D" V 3955 920 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 4000 1000 50  0001 C CNN
+F 3 "~" H 4000 1000 50  0001 C CNN
+	1    4000 1000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D1
+U 1 1 5FE9C542
+P 3500 1000
+F 0 "D1" V 3546 920 50  0000 R CNN
+F 1 "D" V 3455 920 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" H 3500 1000 50  0001 C CNN
+F 3 "~" H 3500 1000 50  0001 C CNN
+	1    3500 1000
+	0    -1   -1   0   
+$EndComp
+Connection ~ 4000 1150
+Connection ~ 4500 1150
+Wire Wire Line
+	4500 1150 5000 1150
+Wire Wire Line
+	4000 1150 4500 1150
+Wire Wire Line
+	3500 1150 4000 1150
+Connection ~ 4000 1750
+Connection ~ 4500 1750
+Connection ~ 5000 1750
+Connection ~ 5500 1750
+Connection ~ 6000 1750
+Connection ~ 6500 1750
+Connection ~ 7000 1750
+Connection ~ 7500 1750
+Connection ~ 8000 1750
+Connection ~ 8500 1750
+Connection ~ 9000 1750
+Connection ~ 9500 1750
+Connection ~ 10000 1750
+Wire Wire Line
+	9500 1750 10000 1750
+Wire Wire Line
+	9000 1750 9500 1750
+Wire Wire Line
+	8500 1750 9000 1750
+Wire Wire Line
+	8000 1750 8500 1750
+Wire Wire Line
+	7500 1750 8000 1750
+Wire Wire Line
+	7000 1750 7500 1750
+Wire Wire Line
+	6500 1750 7000 1750
+Wire Wire Line
+	6000 1750 6500 1750
+Wire Wire Line
+	5500 1750 6000 1750
+Wire Wire Line
+	5000 1750 5500 1750
+Wire Wire Line
+	4500 1750 5000 1750
+Wire Wire Line
+	4000 1750 4500 1750
+Wire Wire Line
+	3500 1750 4000 1750
+Wire Wire Line
+	10000 1750 10500 1750
+Connection ~ 4000 2350
+Connection ~ 4500 2350
+Connection ~ 5000 2350
+Connection ~ 5500 2350
+Connection ~ 6000 2350
+Connection ~ 6500 2350
+Connection ~ 7000 2350
+Connection ~ 7500 2350
+Connection ~ 8000 2350
+Connection ~ 8500 2350
+Connection ~ 9000 2350
+Connection ~ 9500 2350
+Connection ~ 10000 2350
+Wire Wire Line
+	10000 2350 10500 2350
+Wire Wire Line
+	3500 2350 4000 2350
+Wire Wire Line
+	4000 2350 4500 2350
+Wire Wire Line
+	4500 2350 5000 2350
+Wire Wire Line
+	5000 2350 5500 2350
+Wire Wire Line
+	5500 2350 6000 2350
+Wire Wire Line
+	6000 2350 6500 2350
+Wire Wire Line
+	6500 2350 7000 2350
+Wire Wire Line
+	7000 2350 7500 2350
+Wire Wire Line
+	7500 2350 8000 2350
+Wire Wire Line
+	8000 2350 8500 2350
+Wire Wire Line
+	8500 2350 9000 2350
+Wire Wire Line
+	9000 2350 9500 2350
+Wire Wire Line
+	9500 2350 10000 2350
+Connection ~ 4000 2950
+Connection ~ 4500 2950
+Connection ~ 5000 2950
+Connection ~ 5500 2950
+Connection ~ 6000 2950
+Connection ~ 6500 2950
+Connection ~ 7000 2950
+Connection ~ 7500 2950
+Connection ~ 8000 2950
+Connection ~ 8500 2950
+Connection ~ 9000 2950
+Connection ~ 10000 2950
+Wire Wire Line
+	3500 2950 4000 2950
+Wire Wire Line
+	4000 2950 4500 2950
+Wire Wire Line
+	4500 2950 5000 2950
+Wire Wire Line
+	5000 2950 5500 2950
+Wire Wire Line
+	5500 2950 6000 2950
+Wire Wire Line
+	6000 2950 6500 2950
+Wire Wire Line
+	6500 2950 7000 2950
+Wire Wire Line
+	7000 2950 7500 2950
+Wire Wire Line
+	7500 2950 8000 2950
+Wire Wire Line
+	8000 2950 8500 2950
+Wire Wire Line
+	7600 1450 7600 2050
+Wire Wire Line
+	7100 1450 7100 2050
+Wire Wire Line
+	5600 1450 5600 2050
+Wire Wire Line
+	4100 850  4100 1450
+Wire Wire Line
+	9000 2950 10000 2950
+Wire Wire Line
+	8500 2950 9000 2950
+Wire Wire Line
+	3600 850  3600 1450
+Wire Wire Line
+	10000 2950 10500 2950
+Connection ~ 4500 3550
+Connection ~ 5000 3550
+Connection ~ 5500 3550
+Connection ~ 6000 3550
+Connection ~ 6500 3550
+Connection ~ 7000 3550
+Connection ~ 7500 3550
+Connection ~ 8000 3550
+Connection ~ 8500 3550
+Connection ~ 9000 3550
+Wire Wire Line
+	4500 3550 5000 3550
+Wire Wire Line
+	5000 3550 5500 3550
+Wire Wire Line
+	5500 3550 6000 3550
+Wire Wire Line
+	6000 3550 6500 3550
+Wire Wire Line
+	6500 3550 7000 3550
+Wire Wire Line
+	7000 3550 7500 3550
+Wire Wire Line
+	7500 3550 8000 3550
+Wire Wire Line
+	8000 3550 8500 3550
+Wire Wire Line
+	10100 1450 10100 2050
+Wire Wire Line
+	9600 1450 9600 2050
+Wire Wire Line
+	8600 1450 8600 2050
+Wire Wire Line
+	6600 1450 6600 2050
+Wire Wire Line
+	4600 850  4600 1450
+Wire Wire Line
+	8500 3550 9000 3550
+Wire Wire Line
+	8100 1450 8100 2050
+Wire Wire Line
+	3500 3550 4500 3550
+Wire Wire Line
+	9000 3550 10000 3550
+Connection ~ 4000 4150
+Connection ~ 5000 4150
+Connection ~ 5500 4150
+Connection ~ 7000 4150
+Connection ~ 8500 4150
+Connection ~ 9000 4150
+Connection ~ 10000 4150
+Wire Wire Line
+	10000 4150 10500 4150
+Wire Wire Line
+	3500 4150 4000 4150
+Wire Wire Line
+	7000 4150 8500 4150
+Wire Wire Line
+	4000 4150 5000 4150
+Wire Wire Line
+	5500 4150 7000 4150
+Wire Wire Line
+	5000 4150 5500 4150
+Wire Wire Line
+	8500 4150 9000 4150
+Wire Wire Line
+	9000 4150 10000 4150
+Connection ~ 3100 1450
+Connection ~ 3100 2050
+Connection ~ 3100 2650
+Connection ~ 3100 3250
+Connection ~ 3600 1450
+Wire Wire Line
+	3600 1450 3600 2050
+Connection ~ 3600 2050
+Wire Wire Line
+	3600 2050 3600 2650
+Connection ~ 3600 2650
+Wire Wire Line
+	3600 2650 3600 3850
+Connection ~ 4100 1450
+Wire Wire Line
+	4100 1450 4100 2050
+Connection ~ 4100 2050
+Wire Wire Line
+	4100 2050 4100 2650
+Connection ~ 4100 2650
+Wire Wire Line
+	4100 2650 4100 3250
+Connection ~ 4600 1450
+Wire Wire Line
+	4600 1450 4600 2050
+Connection ~ 4600 2050
+Wire Wire Line
+	4600 2050 4600 2650
+Connection ~ 4600 2650
+Wire Wire Line
+	4600 2650 4600 3250
+Connection ~ 4600 3250
+Wire Wire Line
+	4600 3250 4600 3850
+Connection ~ 5100 1450
+Wire Wire Line
+	5100 1450 5100 2050
+Connection ~ 5100 2050
+Wire Wire Line
+	5100 2050 5100 2650
+Connection ~ 5100 2650
+Wire Wire Line
+	5100 2650 5100 3250
+Connection ~ 5100 3250
+Wire Wire Line
+	5100 3250 5100 3850
+Connection ~ 5600 2050
+Wire Wire Line
+	5600 2050 5600 2650
+Connection ~ 5600 2650
+Wire Wire Line
+	5600 2650 5600 3250
+Wire Wire Line
+	6100 1450 6100 2050
+Connection ~ 6100 2050
+Wire Wire Line
+	6100 2050 6100 2650
+Connection ~ 6100 2650
+Wire Wire Line
+	6100 2650 6100 3250
+Connection ~ 6600 2050
+Wire Wire Line
+	6600 2050 6600 2650
+Connection ~ 6600 2650
+Wire Wire Line
+	6600 2650 6600 3250
+Connection ~ 6600 3250
+Wire Wire Line
+	6600 3250 6600 3850
+Connection ~ 7100 2050
+Wire Wire Line
+	7100 2050 7100 2650
+Connection ~ 7100 2650
+Wire Wire Line
+	7100 2650 7100 3250
+Connection ~ 7600 2050
+Wire Wire Line
+	7600 2050 7600 2650
+Connection ~ 7600 2650
+Wire Wire Line
+	7600 2650 7600 3250
+Connection ~ 8100 2050
+Wire Wire Line
+	8100 2050 8100 2650
+Connection ~ 8100 2650
+Wire Wire Line
+	8100 2650 8100 3250
+Connection ~ 8100 3250
+Wire Wire Line
+	8100 3250 8100 3850
+Connection ~ 8600 2050
+Wire Wire Line
+	8600 2050 8600 2650
+Connection ~ 8600 2650
+Wire Wire Line
+	8600 2650 8600 3250
+Connection ~ 8600 3250
+Wire Wire Line
+	8600 3250 8600 3850
+Connection ~ 9600 2050
+Wire Wire Line
+	9600 2050 9600 2650
+Connection ~ 9600 2650
+Wire Wire Line
+	9600 2650 9600 3250
+Connection ~ 9600 3250
+Wire Wire Line
+	9600 3250 9600 3850
+Connection ~ 10100 2050
+Wire Wire Line
+	10100 2050 10100 2650
+Connection ~ 10100 2650
+Wire Wire Line
+	10100 2650 10100 3250
+Connection ~ 10100 3250
+Connection ~ 10600 2050
+Connection ~ 10600 2650
+Wire Wire Line
+	5100 850  5100 1450
+Wire Wire Line
+	3100 850  3100 1450
+Wire Wire Line
+	3100 1450 3100 2050
+Wire Wire Line
+	3100 2050 3100 2650
+Wire Wire Line
+	3100 2650 3100 3250
+Wire Wire Line
+	3100 3250 3100 3850
+Wire Wire Line
+	3000 1150 3500 1150
+Connection ~ 3500 1150
+Wire Wire Line
+	5500 1150 5000 1150
+Connection ~ 5000 1150
+Wire Wire Line
+	3000 1750 3500 1750
+Connection ~ 3500 1750
+Wire Wire Line
+	3000 2350 3500 2350
+Connection ~ 3500 2350
+Wire Wire Line
+	3000 2950 3500 2950
+Connection ~ 3500 2950
+Wire Wire Line
+	3000 3550 3500 3550
+Connection ~ 3500 3550
+Wire Wire Line
+	3000 4150 3500 4150
+Connection ~ 3500 4150
+Wire Wire Line
+	10600 1450 10600 2050
+Wire Wire Line
+	10600 2050 10600 2650
+Wire Wire Line
+	10600 2650 10600 3850
+Wire Wire Line
+	10500 1750 11000 1750
+Connection ~ 10500 1750
+Wire Wire Line
+	10500 2350 11000 2350
+Connection ~ 10500 2350
+Wire Wire Line
+	11000 2950 10500 2950
+Connection ~ 10500 2950
+Wire Wire Line
+	10100 3250 10100 3850
+Wire Wire Line
+	10000 3550 10500 3550
+Connection ~ 10000 3550
+Wire Wire Line
+	10500 4150 11000 4150
+Connection ~ 10500 4150
 $EndSCHEMATC

@@ -125,7 +125,7 @@ def key2svg(key: Key) -> list[Node]:
     y = key.y
     w = key.w
     U = Decimal("19.05")
-    print(f"key {key.ith}:", (x + w / Decimal("2")) * U * 1000000, (y + Decimal("0.5")) * U * 1000000)
+    print(f"key {key.ith}:", w, (x + w / Decimal("2")) * U * 1000000, (y + Decimal("0.5")) * U * 1000000)
     return [
         Node(
             name="rect",
@@ -173,12 +173,12 @@ def key2svg(key: Key) -> list[Node]:
             name="text",
             attrs={
                 "text-anchor": "end",
-                "font-size": "4pt",
+                "font-size": "3pt",
                 "fill": "red",
                 "x": (x+ w / 2) * U + 7,
                 "y": y * U + 16
             },
-            content=str(key.ith),
+            content=f'{key.ith}: {w}',
         )
     ]
 
